@@ -1,0 +1,20 @@
+[
+  {
+    "item": "M&S Food hamper",
+    "image": "http://www.fillmurray.com/300/200",
+    "description": "Lorem ipsum something",
+    "price": 45
+  },
+  {
+    "item": "Another thing",
+    "image": "http://www.fillmurray.com/300/200",
+    "description": "Lorem ipsum something",
+    "price": 25
+  },
+  {
+    "item": "Even more things",
+    "image": "http://www.fillmurray.com/300/200",
+    "description": "Lorem ipsum something",
+    "price": 25
+  }
+]
