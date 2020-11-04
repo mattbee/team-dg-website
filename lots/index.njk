@@ -1,0 +1,13 @@
+---
+layout: base.njk
+pagination:
+    data: auctionLots
+    size: 1
+    alias: lot
+permalink: "lots/{{ lot.item | slug }}/"
+---
+
+<h1>{{ lot.item }}</h1>
+<img src="{{lot.image}}" alt="" />
+<p>Estimated value: {{ lot.price }}</p>
+<p>{{ lot.description }}</p>

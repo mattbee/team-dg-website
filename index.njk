@@ -4,3 +4,9 @@ title: Team DG - Dunton Green PTA Fundraising
 ---
 
 <p>Silent Auction</p>
+
+<ul>
+  {%- for lot in auctionLots -%}
+    <li><a href="lots/{{ lot.item | slug }}">{{ lot.item }} {{ lot.price }}</a></li>
+  {%- endfor -%}
+</ul>
