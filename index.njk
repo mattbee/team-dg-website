@@ -3,10 +3,22 @@ layout: base.njk
 title: Team DG - Dunton Green PTA Fundraising
 ---
 
-<p>Silent Auction</p>
+<h2>Silent Auction</h2>
 
-<ul>
+<p>Despite COVID-19 Team DG are still trying to fundraise and help make Dunton Green Primary School an even better place to learn.</p>
+
+<p>Browse the items below and fill in the form on the item pages to make a bid. Highest bid wins - a great chance to grab some bargains (<a href="/rules/">read full rules here</a>).</p>
+
+<ul class="item_list">
   {%- for lot in auctionLots -%}
-    <li><a href="lots/{{ lot.item | slug }}">{{ lot.item }} {{ lot.price }}</a></li>
+    <li class="item_list__item item">
+      <h3>{{ lot.item }}</h3>
+      <div class="item__image-container">
+        <p class="item__value">Worth £{{ lot.price }}</p>
+        <img class="item__image" src="{{lot.image}}" alt="" />
+      </div>
+      <p>{{ lot.description }}</p>
+      <a href="lots/{{ lot.item | slug }}" class="btn">See more and bid</a>
+    </li>
   {%- endfor -%}
 </ul>

@@ -14,10 +14,32 @@ title: Team DG
 
 </head>
 <body>
+  <header class="header">
+    <div class="header__layout">
+      <h1>Team DG</h1>
+      <nav class="header__nav">
+        <ul>
+          <li><a href="/" {% if page.url == '/'%}class="current"{% endif %}>Silent Auction</a>
+          <li><a href="/rules" {% if page.url == '/rules/'%}class="current"{% endif %}>Auction Rules</a>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
-  <h1>Team DG</h1>
+  <div class="container">
+    {{ content | safe }}
+  </div>
 
-  {{ content | safe }}
+  <footer class="footer">
+    <div class="footer__school-logo">Dunton Green Primary School PTA</div>
+    <p>Built with <a href="https://www.11ty.dev/">Eleventy</a> and hosted on <a href="https://netilfy.com">Netlify</a></p>
+    <nav>
+      <ul>
+        <li><a href="/terms/">Terms</a></li>
+        <li><a href="/privacy/">Privacy</a></li>
+      </ul>
+    </nav>
+  </footer>
 
 </body>
 </html>
