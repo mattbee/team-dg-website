@@ -1,5 +1,8 @@
 $green: #235b27;
 $black: #333;
+html {
+  font-size: 20px;
+}
 
 body {
   color: $black;
@@ -12,7 +15,7 @@ body {
 }
 
 .container {
-  max-width: 66rem;
+  max-width: 58rem;
   padding: 0 2rem;
   margin: 0 auto;
 }
@@ -23,23 +26,41 @@ ol {
   }
 }
 
+a {
+  color: $green;
+  text-decoration: underline;
+  &:hover {
+    color: #000;
+    text-decoration: none;
+  }
+}
+
 .btn {
   display: inline-block;
   background-color: $green;
   color: white;
-  padding: 10px;
+  padding: 10px 20px;
   font-weight: bold;
   border-radius: 5px;
   &:hover, &:focus {
     background: greenyellow;
     color: $black;
   }
+
+  &.btn--subtle {
+    background-color: lightgray;
+    color: $black;
+    &:hover, &:focus {
+      background: rgba(143, 164, 149, .5);
+      color: $black;
+    }
+  }
 }
 
 .header {
   background: #235b27;
   color: #fff;
-  padding: 2rem;
+  padding: 2rem 0;
   .header__layout {
     @extend .container;
     display: flex;
@@ -74,16 +95,19 @@ ol {
 .footer {
   background: $green;
   color: white;
+  font-size: 0.8rem;
   padding: 3rem;
-  display: flex;
-  justify-content: space-between;
+  @media screen and (min-width: 800px) {
+    display: flex;
+    justify-content: space-between;
+  }
   p {
-    margin: 0;
+    margin: 1rem 0;
   }
   ul {
     list-style-type: none;
     padding: 0;
-    margin: 0;
+    margin: 1rem 0;
     li {
       display: inline-block;
     }
@@ -124,7 +148,6 @@ ol {
     @media (min-width: 800px) {
       max-width: 30%;
     }
-
   }
 }
 
@@ -146,5 +169,42 @@ ol {
   .item__image {
     height: auto;
     width: 100%;
+  }
+}
+
+.item-detail {
+  overflow: hidden;
+  .item-detail__image {
+    float: right;
+    max-width: 45%;
+    min-width: 40%;
+  }
+  .item__value {
+    font-weight: 900;
+    font-size: 1.2rem;
+  }
+}
+
+.pagination {
+  margin-top: 3rem;
+  padding: 1rem 0;
+  font-size: 0.9rem;
+  border-top: 5px solid rgba(143, 164, 149, .5);
+  ul {
+    list-style-type: none;
+    display: flex;
+    margin: 1rem 0;
+    padding: 0;
+    justify-content: space-between;
+    li {
+      width: 100%;
+      @media (min-width: 800px) {
+        max-width: 46%;
+      }
+
+      &:nth-child(2) {
+        text-align: right;
+      }
+    }
   }
 }

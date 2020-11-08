@@ -3,18 +3,24 @@
     "item": "M&S Food hamper",
     "image": "http://www.fillmurray.com/300/200",
     "description": "Lorem ipsum something",
-    "price": 45
+    "price": 45,
+    "business": "The Business",
+    "businessLink": "http://www.example.com"
   },
   {
     "item": "Another thing",
     "image": "http://www.fillmurray.com/300/200",
     "description": "Lorem ipsum something",
-    "price": 25
+    "price": 25,
+    "business": "The Business",
+    "businessLink": ""
   },
   {
     "item": "Even more things",
     "image": "http://www.fillmurray.com/300/200",
     "description": "Lorem ipsum something",
-    "price": 25
+    "price": 25,
+    "business": "The Business",
+    "businessLink": "http://www.example.com"
   }
 ]
