@@ -20,7 +20,34 @@ permalink: "lots/{{ lot.item | slug }}/"
     {% endif %}
 </div>
 
-<ol>
-  <li>{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Previous</a>{% else %}Previous{% endif %}</li>
-  <li>{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Next</a>{% else %}Next{% endif %}</li>
-</ol>
+<div class="bid-form">
+  <form name="bid" method="POST" data-netlify="true">
+    <legend><h3>Submit your bid!</h3></legend>
+    <div class="form-row bid-amount">
+      <label for="name" class="label-inline"><strong>Your bid amount:<strong></label>
+      <span class="bid-amount__currency">£</span> <input type="number" name="name" id="name" class="input-narrow" />
+    </div>
+    <div class="form-row">
+      <label for="name">Your name</label>
+      <input type="text" name="name" id="name" placeholder="e.g. Jane Smith" />
+    </div>
+    <div class="form-row">
+      <label for="email">Your email</label>
+      <input type="text" name="email" id="email" placeholder="e.g. js@example.com" />
+    </div>
+    <div class="form-row">
+      <label for="telephone">Your telephone number</label>
+      <input type="text" name="telephone" id="telephone" placeholder="e.g. 01234123456" />
+    </div>
+    <div class="form-row">
+      <button type="submit" class="btn">Place your bid!</button>
+    </div>
+  </form>
+</div>
+
+<div class="pagination">
+  <ul>
+    <li>{% if pagination.href.previous %}<a class="btn btn--subtle" href="{{ pagination.href.previous }}">Previous item: {{pagination.page.previous.item}}</a>{% else %}This is the first item{% endif %}</li>
+    <li>{% if pagination.href.next %}<a class="btn btn--subtle" href="{{ pagination.href.next }}">Next item: {{pagination.page.next.item}}</a>{% else %}This is the last item{% endif %}</li>
+  </ul>
+</div>
