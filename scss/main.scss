@@ -42,9 +42,12 @@ a {
   padding: 10px 20px;
   font-weight: bold;
   border-radius: 5px;
+  border: 0;
+  font: inherit;
   &:hover, &:focus {
     background: greenyellow;
     color: $black;
+    cursor: pointer;
   }
 
   &.btn--subtle {
