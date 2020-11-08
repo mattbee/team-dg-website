@@ -12,11 +12,12 @@ permalink: "lots/{{ lot.item | slug }}/"
   <img src="{{lot.image}}" alt="" class="item-detail__image" />
   <p class="item__value">Estimated value: £{{ lot.price }}</p>
   <p>{{ lot.description }}</p>
-  <p>Prize provided by
-    {% if lot.businessLink != "" %}
+  {% if lot.businessLink != "" %}
+    <p>Prize provided by
       <a href="{{lot.businessLink}}">{{lot.business}}</a>
-    {% else %}
-      {{lot.business}}
+    </p>
+    {% elif lot.business != '' %}
+      <p>Prize provided by {{lot.business}}</p>
     {% endif %}
 </div>
 
@@ -24,8 +25,9 @@ permalink: "lots/{{ lot.item | slug }}/"
   <form name="bid" method="POST" data-netlify="true">
     <legend><h3>Submit your bid!</h3></legend>
     <div class="form-row bid-amount">
-      <label for="name" class="label-inline"><strong>Your bid amount:<strong></label>
-      <span class="bid-amount__currency">£</span> <input type="number" name="name" id="name" class="input-narrow" />
+      <label for="bid_amount" class="label-inline"><strong>Your bid amount:<strong></label>
+      <span class="bid-amount__currency">£</span> <input type="number" name="bid_amount" id="bid_amount" step="any" class="input-narrow" placeholder="eg. 10.99" />
+      <p class="form-help">Enter your bid amount, in pounds and pence.</p>
     </div>
     <div class="form-row">
       <label for="name">Your name</label>
