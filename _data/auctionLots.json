@@ -1,26 +1,74 @@
 [
   {
-    "item": "M&S Food hamper",
+    "item": "1 month membership to Gymboree",
     "image": "http://www.fillmurray.com/300/200",
-    "description": "Lorem ipsum something",
-    "price": 45,
-    "business": "The Business",
-    "businessLink": "http://www.example.com"
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "price": 30,
+    "business": "Gymboree",
+    "businessLink": "https://www.gymboreeclasses.co.uk/franchisees/sevenoaks/#about-us"
   },
   {
-    "item": "Another thing",
+    "item": "Little Street session pass",
     "image": "http://www.fillmurray.com/300/200",
-    "description": "Lorem ipsum something",
-    "price": 25,
-    "business": "The Business",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "price": 24,
+    "business": "Little Street",
+    "businessLink": "https://www.little-street.co.uk/sevenoaks/"
+  },
+  {
+    "item": "Mud & Bloom gardening/nature craft box",
+    "image": "http://www.fillmurray.com/300/200",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+    "price": "TBD",
+    "business": "Mud & Bloom",
+    "businessLink": "https://www.mudandbloom.com/"
+  },
+  {
+    "item": "Diane Carey Books",
+    "image": "http://www.fillmurray.com/300/200",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+    "price": "TBD",
+    "business": "",
     "businessLink": ""
   },
   {
-    "item": "Even more things",
+    "item": "Fresh Christmas wreath",
     "image": "http://www.fillmurray.com/300/200",
-    "description": "Lorem ipsum something",
-    "price": 25,
-    "business": "The Business",
-    "businessLink": "http://www.example.com"
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+    "price": "TBD",
+    "business": "Rachael Hovey",
+    "businessLink": ""
+  },
+  {
+    "item": "Handmade Christmas cake",
+    "image": "http://www.fillmurray.com/300/200",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+    "price": 10,
+    "business": "Eileen Norburn",
+    "businessLink": ""
+  },
+  {
+    "item": "Personalised Christmas tree decorations for family of 4",
+    "image": "http://www.fillmurray.com/300/200",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+    "price": "TBD",
+    "business": "Handmade by Luci",
+    "businessLink": ""
+  },
+  {
+    "item": "Love Local Card",
+    "image": "http://www.fillmurray.com/300/200",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+    "price": 20,
+    "business": "LoveLocal",
+    "businessLink": "http://lovelocalcard.com/"
+  },
+  {
+    "item": "Wine & dessert at Prezzo",
+    "image": "http://www.fillmurray.com/300/200",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+    "price": "TBD",
+    "business": "Prezzo",
+    "businessLink": "https://www.prezzorestaurants.co.uk/restaurant/sevenoaks/"
   }
 ]
