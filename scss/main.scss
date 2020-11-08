@@ -209,11 +209,13 @@ a {
   ul {
     list-style-type: none;
     display: flex;
+    flex-wrap: wrap;
     margin: 1rem 0;
     padding: 0;
     justify-content: space-between;
     li {
       width: 100%;
+      margin-bottom: 20px;
       @media (min-width: 800px) {
         max-width: 46%;
       }
