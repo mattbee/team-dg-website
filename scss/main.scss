@@ -173,6 +173,9 @@ a {
     height: auto;
     width: 100%;
   }
+  .btn {
+    margin:10px;
+  }
 }
 
 .item-detail {
@@ -216,6 +219,11 @@ a {
   max-width: 32rem;
 }
 
+.form-help {
+  color: #666;
+  font-size: 0.9rem;
+}
+
 legend {
   font-size: 1.4rem;
 }
@@ -243,8 +251,19 @@ input[type=number] {
   font: inherit;
 
   &.input-narrow {
-    width: 85px;
+    width: 120px;
   }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
 }
 
 .bid-amount {
