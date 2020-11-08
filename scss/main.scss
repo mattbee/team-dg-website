@@ -155,6 +155,16 @@ a {
 }
 
 .item {
+  background: #eaeaea;
+  .item__title {
+    color: darkred;
+    font-size: 1.4rem;
+    margin: -40px 10px 10px 10px;
+    z-index: 10;
+    position: relative;
+    background: white;
+    padding: 0 10px;
+  }
   .item__image-container {
     position: relative;
   }

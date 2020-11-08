@@ -12,12 +12,11 @@ title: Team DG - Dunton Green PTA Fundraising
 <ul class="item_list">
   {%- for lot in auctionLots -%}
     <li class="item_list__item item">
-      <h3>{{ lot.item }}</h3>
       <div class="item__image-container">
         <p class="item__value">Worth £{{ lot.price }}</p>
         <img class="item__image" src="{{lot.image}}" alt="" />
       </div>
-      <p>{{ lot.description }}</p>
+      <h3 class="item__title" >{{ lot.item }}</h3>
       <a href="lots/{{ lot.item | slug }}" class="btn">See more and bid</a>
     </li>
   {%- endfor -%}
