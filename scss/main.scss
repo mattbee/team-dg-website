@@ -156,6 +156,9 @@ a {
 
 .item {
   background: #eaeaea;
+  .item__number {
+    color: #666;
+  }
   .item__title {
     color: darkred;
     font-size: 1.4rem;

@@ -16,7 +16,7 @@ title: Team DG - Dunton Green PTA Fundraising
         <p class="item__value">Worth £{{ lot.price }}</p>
         <img class="item__image" src="{{lot.image}}" alt="" />
       </div>
-      <h3 class="item__title" >{{ lot.item }}</h3>
+      <h3 class="item__title" ><span class="item__number">{{ loop.index }}.</span> {{ lot.item }}</h3>
       <a href="lots/{{ lot.item | slug }}" class="btn">See more and bid</a>
     </li>
   {%- endfor -%}
