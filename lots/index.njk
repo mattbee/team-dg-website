@@ -22,11 +22,15 @@ permalink: "lots/{{ lot.item | slug }}/"
 </div>
 
 <div class="bid-form">
-  <form action="/bid-success/" data-confirmation="/lots/{{ lot.item | slug }}/confirmation/" name="Silent Auction Bid" method="POST" data-netlify="true">
+  <form action="/bid-success/" id="bidForm" data-confirmation="/lots/{{ lot.item | slug }}/confirmation/" name="Silent Auction Bid" method="POST" data-netlify="true">
+    <div class="form-error" id="form-error" style="display: none;">
+      <p>Something went wrong. If you can't submit a bid through this form, email bids to bee.matt+teamdg@gmail.com</p>
+    </div>
     <legend><h3>Submit your bid!</h3></legend>
+    <input type="hidden" name="form-name" value="Silent Auction Bid" />
     <input type="hidden" name="item" value="{{ lot.item }}" />
     <div class="form-row bid-amount">
-      <label for="bid_amount" class="label-inline"><strong>Your bid amount:<strong></label>
+      <label for="bid_amount" class="label-inline"><strong>Your bid amount:</strong></label>
       <span class="bid-amount__currency">£</span> <input type="number" name="bid_amount" id="bid_amount" step="any" class="input-narrow" placeholder="eg. 10.99" />
       <p class="form-help">Enter your bid amount, in pounds and pence.</p>
     </div>
@@ -54,3 +58,63 @@ permalink: "lots/{{ lot.item | slug }}/"
     <li>{% if pagination.href.next %}<a class="btn btn--subtle" href="{{ pagination.href.next }}">Next item: {{pagination.page.next.item}}</a>{% else %}This is the last item{% endif %}</li>
   </ul>
 </div>
+
+<script>
+const bidForm = document.getElementById('bidForm');
+
+if (bidForm) {
+    const serialize = function (form) {
+        var field,
+            l,
+            s = [];
+
+        if (typeof form == 'object' && form.nodeName == 'FORM') {
+            var len = form.elements.length;
+
+            for (var i = 0; i < len; i++) {
+                field = form.elements[i];
+                if (
+                    field.name &&
+                    !field.disabled &&
+                    field.type != 'button' &&
+                    field.type != 'file' &&
+                    field.type != 'reset' &&
+                    field.type != 'submit'
+                ) {
+                    if (field.type == 'select-multiple') {
+                        l = form.elements[i].options.length;
+
+                        for (var j = 0; j < l; j++) {
+                            if (field.options[j].selected) {
+                                s[s.length] = encodeURIComponent(field.name) + '=' + encodeURIComponent(field.options[j].value);
+                            }
+                        }
+                    } else if ((field.type != 'checkbox' && field.type != 'radio') || field.checked) {
+                        s[s.length] = encodeURIComponent(field.name) + '=' + encodeURIComponent(field.value);
+                    }
+                }
+            }
+        }
+        return s.join('&').replace(/%20/g, '+');
+    };
+    bidForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+
+        const theForm = e.currentTarget;
+        const formData = serialize(theForm);
+        const options = {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+            body: formData
+        };
+
+        fetch('/', options)
+            .then(function (response) {
+                window.location.assign(theForm.dataset.confirmation);
+            })
+            .catch(function (error) {
+                document.getElementById('.form-error').style.display = 'block'
+            });
+    });
+}
+</script>
