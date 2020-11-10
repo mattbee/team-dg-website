@@ -24,6 +24,7 @@ permalink: "lots/{{ lot.item | slug }}/"
 <div class="bid-form">
   <form action="lots/{{ lot.item | slug }}/confirmation/" name="bid" method="POST" data-netlify="true">
     <legend><h3>Submit your bid!</h3></legend>
+    <input type="hidden" name="item" value="{{ lot.item }}" />
     <div class="form-row bid-amount">
       <label for="bid_amount" class="label-inline"><strong>Your bid amount:<strong></label>
       <span class="bid-amount__currency">£</span> <input type="number" name="bid_amount" id="bid_amount" step="any" class="input-narrow" placeholder="eg. 10.99" />
