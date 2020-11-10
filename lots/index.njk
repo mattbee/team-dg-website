@@ -22,7 +22,7 @@ permalink: "lots/{{ lot.item | slug }}/"
 </div>
 
 <div class="bid-form">
-  <form name="bid" method="POST" data-netlify="true">
+  <form action="lots/{{ lot.item | slug }}/confirmation/" name="bid" method="POST" data-netlify="true">
     <legend><h3>Submit your bid!</h3></legend>
     <div class="form-row bid-amount">
       <label for="bid_amount" class="label-inline"><strong>Your bid amount:<strong></label>
