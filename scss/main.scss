@@ -161,12 +161,15 @@ a {
   }
   .item__title {
     color: darkred;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin: -40px 10px 10px 10px;
     z-index: 10;
     position: relative;
     background: white;
     padding: 0 10px;
+    @media (min-width: 800px) {
+      font-size: 1.4rem;
+    }
   }
   .item__image-container {
     position: relative;
