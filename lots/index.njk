@@ -108,7 +108,7 @@ if (bidForm) {
             body: formData
         };
 
-        fetch(theForm.action, options)
+        fetch('/', options)
             .then(function (response) {
                 window.location.assign(theForm.dataset.confirmation);
             })
