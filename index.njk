@@ -3,9 +3,11 @@ layout: base.njk
 title: Team DG - Dunton Green PTA Fundraising
 ---
 
-<h2>Silent Auction {{ status.live }}</h2>
+<h2>Silent Auction</h2>
 
 <p>Despite COVID-19 Team DG are still trying to fundraise and help make Dunton Green Primary School an even better place to learn.</p>
+
+{% if status.live == 'true' %}
 
 <p>Browse the items below and fill in the form on the item pages to make a bid. Highest bid wins - a great chance to grab some bargains (<a href="/rules/">read full rules here</a>).</p>
 
@@ -21,3 +23,23 @@ title: Team DG - Dunton Green PTA Fundraising
     </li>
   {%- endfor -%}
 </ul>
+
+{% else %}
+
+  <div class="standout">
+    <p><strong>The auction will launch on 1st December and run until the 12th December.</strong></p>
+    <p>Come back then to bid on items including:</p>
+  </div>
+  <ul>
+    <li>an M&amp;S hamper</li>
+    <li>Gymboree memberships</li>
+    <li>wine and dessert vouchers</li>
+    <li>sleep consultant packages</li>
+    <li>personal training</li>
+    <li>golf prizes</li>
+    <li>pampering sessions</li>
+    <li>and much much more.</li>
+  </ul>
+</div>
+
+{% endif %}
