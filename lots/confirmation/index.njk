@@ -4,18 +4,11 @@ pagination:
     data: auctionLots
     size: 1
     alias: lot
-permalink: "/lots/{{ lot.item | slug }}/confirmation/"
+permalink: "/lots/{{ lot.lot | slug }}/confirmation/"
 ---
 
 <div class="item-confirmation">
-  <h1>You have bid successfully on {{ lot.item }}</h1>
+  <h1>You have bid successfully on {{ lot.lot }}</h1>
   <img src="{{lot.image}}" alt="" class="item-detail__image" />
-  <p>{{ lot.description }}</p>
-  {% if lot.businessLink != "" %}
-    <p>Prize provided by
-      <a href="{{lot.businessLink}}">{{lot.business}}</a>
-    </p>
-    {% elif lot.business != '' %}
-      <p>Prize provided by {{lot.business}}</p>
-    {% endif %}
+
 </div>

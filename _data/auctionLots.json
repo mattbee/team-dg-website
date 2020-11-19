@@ -1,74 +1,45 @@
 [
   {
-    "item": "1 month membership to Gymboree",
-    "image": "/images/placeholder.jpg",
-    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
-    "price": 30,
-    "business": "Gymboree",
-    "businessLink": "https://www.gymboreeclasses.co.uk/franchisees/sevenoaks/#about-us"
-  },
-  {
-    "item": "Little Street session pass",
-    "image": "/images/placeholder.jpg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-    "price": 24,
-    "business": "Little Street",
-    "businessLink": "https://www.little-street.co.uk/sevenoaks/"
-  },
-  {
-    "item": "Mud & Bloom gardening/nature craft box",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "Mud & Bloom",
-    "businessLink": "https://www.mudandbloom.com/"
-  },
-  {
-    "item": "Diane Carey Books",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "",
-    "businessLink": ""
-  },
-  {
-    "item": "Fresh Christmas wreath",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "Rachael Hovey",
-    "businessLink": ""
-  },
-  {
-    "item": "Handmade Christmas cake",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": 10,
-    "business": "Eileen Norburn",
-    "businessLink": ""
-  },
-  {
-    "item": "Personalised Christmas tree decorations for family of 4",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "Handmade by Luci",
-    "businessLink": ""
-  },
-  {
-    "item": "Love Local Card",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": 20,
-    "business": "LoveLocal",
-    "businessLink": "http://lovelocalcard.com/"
-  },
-  {
-    "item": "Wine & dessert at Prezzo",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "Prezzo",
-    "businessLink": "https://www.prezzorestaurants.co.uk/restaurant/sevenoaks/"
+    "lot": "Keep the kids entertained",
+    "items": [
+      {
+        "item": "1 month membership to Gymboree Sevenoaks",
+        "short_name": "Gymboree membership",
+        "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "terms": "Valid until 30/05/2021",
+        "value": 38,
+        "business": "Gymboree Sevenoaks",
+        "businessLink": "https://www.gymboreeclasses.co.uk/franchisees/sevenoaks/#about-us"
+      },
+      {
+        "item": "A private Alpaca trek for up to 6 people at Reuthe's The Lost Gardens of Sevenoaks",
+        "short_name": "Reuthe's Alpaca Trek",
+        "description": "<strong>Reuthe's The Lost Gardens of Sevenoaks</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "terms": "Valid on Wednesdays only in Jan & Feb 2021",
+        "value": 75,
+        "business": "Reuthe’s Lost Gardens of Sevenoaks",
+        "businessLink": "https://reuthes.com/"
+      },
+      {
+        "item": "A children's seasonal gardening/nature craft activity box",
+        "short_name": "Mud & Bloom Nature Box",
+        "description": "<strong>Mud & Bloom box</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "terms": "Suitable for 3-8 yrs",
+        "value": 12,
+        "business": "Mud & Bloom",
+        "businessLink": "https://www.mudandbloom.com/"
+      },
+      {
+        "item": "A set of 4 children's books, beautifully illustrated and signed by this local author!",
+        "short_name": "4 children's books (by Diane Carey)",
+        "description": "<strong>Children's books set</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "terms": "",
+        "value": 20,
+        "business": "Diane Carey",
+        "businessLink": ""
+      }
+    ],
+    "image": "/images/items/alpacas.jpg",
+    "total_value": 145
   }
 ]
