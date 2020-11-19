@@ -14,15 +14,20 @@ permalink: "lots/{{ lot.lot | slug }}/"
 
 
   {% for item in lot.items %}
-    <h3>{{ item.item }} <span>worth £{{ item.value }}</span></h3>
-    <p>{{ item.description | safe }}</p>
-    {% if item.businessLink != "" %}
-      <p>Prize provided by
-        <a href="{{item.businessLink}}">{{item.business}}</a>
-      </p>
-    {% elif item.business != '' %}
-      <p>Prize provided by {{item.business}}</p>
-    {% endif %}
+    <div class="lot_item">
+      <h3>{{ item.item }} <span>worth £{{ item.value }}</span></h3>
+      <p>{{ item.description | safe }}</p>
+      {% if item.terms != "" %}
+        <p class="lot_item__terms">Terms: {{item.terms}}</p>
+      {% endif %}
+      {% if item.businessLink != "" %}
+        <p>Prize provided by
+          <a href="{{item.businessLink}}">{{item.business}}</a>
+        </p>
+      {% elif item.business != '' %}
+        <p>Prize provided by {{item.business}}</p>
+      {% endif %}
+    </div>
   {% endfor %}
 
 </div>
