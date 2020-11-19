@@ -66,8 +66,8 @@ permalink: "lots/{{ lot.lot | slug }}/"
 
 <div class="pagination">
   <ul>
-    <li>{% if pagination.href.previous %}<a class="btn btn--subtle" href="{{ pagination.href.previous }}">Previous item: {{pagination.page.previous.item}}</a>{% else %}This is the first item{% endif %}</li>
-    <li>{% if pagination.href.next %}<a class="btn btn--subtle" href="{{ pagination.href.next }}">Next item: {{pagination.page.next.item}}</a>{% else %}This is the last item{% endif %}</li>
+    <li>{% if pagination.href.previous %}<a class="btn btn--subtle" href="{{ pagination.href.previous }}">Previous item: {{pagination.page.previous.lot}}</a>{% else %}This is the first item{% endif %}</li>
+    <li>{% if pagination.href.next %}<a class="btn btn--subtle" href="{{ pagination.href.next }}">Next item: {{pagination.page.next.lot}}</a>{% else %}This is the last item{% endif %}</li>
   </ul>
 </div>
 
