@@ -1,14 +1,14 @@
 [
   {
     "lot": "Keep the kids entertained",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "A perfect family package to keep the children occupied.",
     "image": "/images/items/alpacas.jpg",
     "total_value": 145,
     "items": [
       {
         "item": "1 month membership to Gymboree Sevenoaks",
         "short_name": "Gymboree membership",
-        "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "description": "",
         "terms": "Valid until 30/05/2021",
         "value": 38,
         "business": "Gymboree Sevenoaks",
@@ -45,7 +45,7 @@
   },
   {
     "lot": "A beautifully homemade Christmas",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Adding a magical Christmas touch of beautiful handmade gifts to your home.",
     "image": "/images/items/xmas.jpeg",
     "total_value": 70,
     "items": [
@@ -80,7 +80,7 @@
   },
   {
     "lot": "To support local",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "You can’t buy happiness but you can buy local.",
     "image": "/images/items/sevenoaks.jpg",
     "total_value": 70,
     "items": [
@@ -124,7 +124,7 @@
   },
   {
     "lot": "5 minutes of peace",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Warm and cosy treat for your nose and for you to eat.",
     "image": "/images/items/coffee.jpg",
     "total_value": 57,
     "items": [
@@ -168,7 +168,7 @@
   },
   {
     "lot": "Beautiful family memories to treasure",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Snap up this prize and be caught in a moment of memories in a beautiful photo shoot.",
     "image": "/images/items/family-017.jpg",
     "total_value": 57,
     "items": [
@@ -194,7 +194,7 @@
   },
   {
     "lot": "A good night's sleep",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Famous local sleep consultant to make sure there are no more parties in this crib!",
     "image": "/images/items/sleep.jpg",
     "total_value": 245,
     "items": [
@@ -211,7 +211,7 @@
   },
   {
     "lot": "A night in with the family",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "When you don’t want to venture out on those cold nights - snuggle up in front of a great Christmas movie and delicious food.",
     "image": "/images/items/nightin.jpg",
     "total_value": 50,
     "items": [
@@ -237,7 +237,7 @@
   },
   {
     "lot": "Get fit at home",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Enjoy a virtual exercise class and find your boost at home.",
     "image": "/images/items/boostfit.jpg",
     "total_value": 20,
     "items": [
@@ -254,7 +254,7 @@
   },
   {
     "lot": "Some much-needed 'me' time",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Let someone else to put you in a state of relaxation.",
     "image": "/images/items/thrive.jpeg",
     "total_value": 68,
     "items": [
@@ -280,7 +280,7 @@
   },
   {
     "lot": "To improve my fitness",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "1,2,1,2 - When you need that push to train let Sevenoaks circuit be your aim.",
     "image": "/images/items/healthfitness.jpg",
     "total_value": 40,
     "items": [
@@ -306,7 +306,7 @@
   },
   {
     "lot": "Some tasty treats...",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "This isn’t just a hamper, this is an M&S hamper!",
     "image": "/images/items/hamper.jpg",
     "total_value": 40,
     "items": [
@@ -323,7 +323,7 @@
   },
   {
     "lot": "Enchanting eyes!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Go on have a flutter and make those lashes do it too.",
     "image": "/images/items/eye.jpg",
     "total_value": 55,
     "items": [
@@ -349,7 +349,7 @@
   },
   {
     "lot": "A night off from cooking!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "The best memories are made around the table.",
     "image": "/images/items/emma.jpg",
     "total_value": 80,
     "items": [
@@ -366,7 +366,7 @@
   },
   {
     "lot": "A fab new look!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Transform yourself in the New Year.",
     "image": "/images/items/macrhai.png",
     "total_value": 75,
     "items": [
@@ -392,7 +392,7 @@
   },
   {
     "lot": "Family fun at the farm",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Ee-i-ee-i-o off to the farm we go.",
     "image": "/images/items/GodstoneFarm-Playground.jpg",
     "total_value": 35,
     "items": [
@@ -409,7 +409,7 @@
   },
   {
     "lot": "A treat for the feet",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "A unique reflexology for your feet.",
     "image": "/images/items/reflex.jpg",
     "total_value": 50,
     "items": [
@@ -435,7 +435,7 @@
   },
   {
     "lot": "A bit of tranquility",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Log out, shut down - do yoga.",
     "image": "/images/items/yoga.jpg",
     "total_value": 35,
     "items": [
@@ -461,7 +461,7 @@
   },
   {
     "lot": "A neat and tidy garden!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "For a beautiful garden without a back ache.",
     "image": "/images/items/garden.jpg",
     "total_value": 40,
     "items": [
@@ -478,7 +478,7 @@
   },
   {
     "lot": "A game of golf",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Make it a hole in one.",
     "image": "/images/items/golf.jpg",
     "total_value": 170,
     "items": [
@@ -495,7 +495,7 @@
   },
   {
     "lot": "A beautifully fragranced home!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "‘I have too many wax melts’ – said no one ever",
     "image": "/images/items/home-frag.jpg",
     "total_value": 20,
     "items": [
@@ -512,7 +512,7 @@
   },
   {
     "lot": "Some one-on-one personal training",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "I just want to make you sweat.",
     "image": "/images/items/bbg.jpg",
     "total_value": "56 x 2",
     "items": [
@@ -529,7 +529,7 @@
   },
   {
     "lot": "To be pampered in my own home",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Let the beauty come to you.",
     "image": "/images/items/hodges.jpg",
     "total_value": 50,
     "items": [
@@ -546,7 +546,7 @@
   },
   {
     "lot": "Kit the kids out for the new term",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "No more rush the uniform is on us.",
     "image": "/images/items/horncastles.jpg",
     "total_value": 52,
     "items": [
@@ -572,7 +572,7 @@
   },
   {
     "lot": "A date night!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "You, me and date night!",
     "image": "/images/items/date.jpg",
     "total_value": 64,
     "items": [
@@ -607,7 +607,7 @@
   },
   {
     "lot": "Get the kids reading!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Books are uniquely portable magic.",
     "image": "/images/items/jemma.jpg",
     "total_value": 21,
     "items": [
@@ -624,7 +624,7 @@
   },
   {
     "lot": "Get the kids outdoors",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "If you go down to the woods today be sure of a big surprise.",
     "image": "/images/items/forest.jpg",
     "total_value": 35,
     "items": [
@@ -641,7 +641,7 @@
   },
   {
     "lot": "An adrenaline rush!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Let’s jump and dive and fly through the sky.",
     "image": "/images/items/bunjee.jpg",
     "total_value": 49,
     "items": [
@@ -658,7 +658,7 @@
   },
   {
     "lot": "A delicious Thai takeaway",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Happiness is enjoying your local Thai food.",
     "image": "/images/items/thai.jpg",
     "total_value": 100,
     "items": [
@@ -675,7 +675,7 @@
   },
   {
     "lot": "Gorgeous hands",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Life is too short to wait for your nails to dry.",
     "image": "/images/items/nails.jpg",
     "total_value": 25,
     "items": [
@@ -701,7 +701,7 @@
   },
   {
     "lot": "A post-Lockdown cut & blow dry!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Love is in the hair.",
     "image": "/images/items/designahead.jpg",
     "total_value": 61,
     "items": [
@@ -718,7 +718,7 @@
   },
   {
     "lot": "A barber's appointment!",
-    "description": "<strong>Sed ut perspiciatis</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "description": "Get that lockdown hair sorted at Frank's!",
     "image": "/images/items/franks.jpg",
     "total_value": 27,
     "items": [
