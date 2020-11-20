@@ -47,7 +47,7 @@
     "lot": "A beautifully homemade Christmas",
     "description": "Adding a magical Christmas touch of beautiful handmade gifts to your home.",
     "image": "/images/items/xmas.jpeg",
-    "total_value": 70,
+    "total_value": 60,
     "items": [
       {
         "item": "A fresh handmade Christmas wreath ",
@@ -82,7 +82,7 @@
     "lot": "To support local",
     "description": "You can’t buy happiness but you can buy local.",
     "image": "/images/items/sevenoaks.jpg",
-    "total_value": 70,
+    "total_value": 95,
     "items": [
       {
         "item": "A LoveLocal discount card",
@@ -170,7 +170,7 @@
     "lot": "Beautiful family memories to treasure",
     "description": "Snap up this prize and be caught in a moment of memories in a beautiful photo shoot.",
     "image": "/images/items/family-017.jpg",
-    "total_value": 57,
+    "total_value": 199,
     "items": [
       {
         "item": "A mini family photo shoot ",
@@ -677,7 +677,7 @@
     "lot": "Gorgeous hands",
     "description": "Life is too short to wait for your nails to dry.",
     "image": "/images/items/nails.jpg",
-    "total_value": 25,
+    "total_value": 30,
     "items": [
       {
         "item": "A gel mini manicure",
