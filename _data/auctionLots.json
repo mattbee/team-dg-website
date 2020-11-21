@@ -548,7 +548,7 @@
     "lot": "Kit the kids out for the new term",
     "description": "No more rush the uniform is on us.",
     "image": "/images/items/horncastles.jpg",
-    "total_value": 52,
+    "total_value": 59,
     "items": [
       {
         "item": "£25 Horncastles voucher",
@@ -564,7 +564,7 @@
         "short_name": "£20 voucher and hair product",
         "description": "",
         "terms": "",
-        "value": 27,
+        "value": 34,
         "business": "Frank's Barbers Riverhead",
         "businessLink": "https://www.franksbarbers.com/"
       }
@@ -720,13 +720,13 @@
     "lot": "A barber's appointment!",
     "description": "Get that lockdown hair sorted at Frank's!",
     "image": "/images/items/franks.jpg",
-    "total_value": 27,
+    "total_value": 34,
     "items": [
       {
         "item": "£20 voucher to spend at Frank's Barbers",
         "short_name": "£20 voucher to spend at Frank's Barbers",
         "description": "",
-        "terms": "",
+        "terms": "Mon-Fri only. Valid 6 months",
         "value": 20,
         "business": "Frank's Barbers Riverhead",
         "businessLink": "https://www.franksbarbers.com/"
@@ -736,7 +736,7 @@
         "short_name": "Hairtstyling products from Frank",
         "description": "",
         "terms": "",
-        "value": 7,
+        "value": 14,
         "business": "Frank's Barbers Riverhead",
         "businessLink": "https://www.franksbarbers.com/"
       }
