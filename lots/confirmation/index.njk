@@ -4,20 +4,30 @@ pagination:
     data: auctionLots
     size: 1
     alias: lot
-permalink: "/lots/{{ lot.item | slug }}/confirmation/"
+permalink: "/lots/{{ lot.lot | slug }}/confirmation/"
 ---
 
 <div class="item-confirmation">
-  <h1>You have bid successfully on {{ lot.item }}</h1>
-  <img src="{{lot.image}}" alt="" class="item-detail__image" />
-  <p>{{ lot.description }}</p>
-  {% if lot.businessLink != "" %}
-    <p>Prize provided by
-      <a href="{{lot.businessLink}}">{{lot.business}}</a>
-    </p>
-    {% elif lot.business != '' %}
-      <p>Prize provided by {{lot.business}}</p>
-    {% endif %}
+  <h1>You have bid successfully on {{ lot.lot }}</h1>
 
-    <p><a href="/" class="btn">Back to all items</a> <input type="button" class="btn" value="Back to item" onclick="history.back(-1)" /></p>
+  <p class="item__value">Total value: £{{ lot.total_value }}</p>
+
+  <p>{{ lot.description | safe }}</p>
+
+  {% for item in lot.items %}
+    <div class="lot_item">
+      <h3>{{ item.item }} <span>worth £{{ item.value }}</span></h3>
+      {# <p>{{ item.description | safe }}</p> #}
+      {% if item.terms != "" %}
+        <p class="lot_item__terms">Terms: {{item.terms}}</p>
+      {% endif %}
+      {% if item.businessLink != "" %}
+        <p>Prize provided by
+          <a href="{{item.businessLink}}">{{item.business}}</a>
+        </p>
+      {% elif item.business != '' %}
+        <p>Prize provided by {{item.business}}</p>
+      {% endif %}
+    </div>
+  {% endfor %}
 </div>

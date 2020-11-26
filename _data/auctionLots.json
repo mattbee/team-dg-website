@@ -1,74 +1,779 @@
 [
   {
-    "item": "1 month membership to Gymboree",
-    "image": "/images/placeholder.jpg",
-    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
-    "price": 30,
-    "business": "Gymboree",
-    "businessLink": "https://www.gymboreeclasses.co.uk/franchisees/sevenoaks/#about-us"
+    "lot": "Keep the kids entertained",
+    "description": "A perfect family package to keep the children occupied.",
+    "image": "/images/items/street.jpg",
+    "total_value": 93.80,
+    "items": [
+      {
+        "item": "1 month membership to Gymboree Sevenoaks",
+        "short_name": "Gymboree membership",
+        "description": "",
+        "terms": "Valid until 30/05/2021",
+        "value": 38,
+        "business": "Gymboree Sevenoaks",
+        "businessLink": "https://www.gymboreeclasses.co.uk/franchisees/sevenoaks/#about-us"
+      },
+      {
+        "item": "4 tickets to Little Street Riverhead",
+        "short_name": "4 tickets to Little Street Riverhead",
+        "description": "",
+        "terms": "Valid until 1st April 2021",
+        "value": 23.8,
+        "business": "Little Street Riverhead",
+        "businessLink": ""
+      },
+      {
+        "item": "A children's seasonal gardening/nature craft activity box",
+        "short_name": "Mud & Bloom Nature Box",
+        "description": "",
+        "terms": "Suitable for 3-8 yrs",
+        "value": 12,
+        "business": "Mud & Bloom",
+        "businessLink": "https://www.mudandbloom.com/"
+      },
+      {
+        "item": "A set of 4 children's books, beautifully illustrated and signed by this local author!",
+        "short_name": "4 children's books (by Diane Carey)",
+        "description": "<strong>Children's books set</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "terms": "",
+        "value": 20,
+        "business": "Diane Carey",
+        "businessLink": ""
+      }
+    ]
   },
   {
-    "item": "Little Street session pass",
-    "image": "/images/placeholder.jpg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-    "price": 24,
-    "business": "Little Street",
-    "businessLink": "https://www.little-street.co.uk/sevenoaks/"
+    "lot": "A beautifully homemade Christmas",
+    "description": "Adding a magical Christmas touch of beautiful handmade gifts to your home.",
+    "image": "/images/items/xmas.jpeg",
+    "total_value": 70,
+    "items": [
+      {
+        "item": "A fresh handmade Christmas wreath ",
+        "short_name": "Handmade Christmas wreath",
+        "description": "",
+        "terms": "",
+        "value": 35,
+        "business": "Wild Gardener",
+        "businessLink": "https://www.facebook.com/wildgardenerRachael/"
+      },
+      {
+        "item": "A traditional, fully iced Christmas fruit cake",
+        "short_name": "Traditional Christmas cake",
+        "description": "",
+        "terms": "Contains nuts, dairy and gluten",
+        "value": 10,
+        "business": "Eileen Norburn",
+        "businessLink": ""
+      },
+      {
+        "item": "Personalised Christmas tree decorations for family of 4",
+        "short_name": "Personalised Christmas tree decorations",
+        "description": "",
+        "terms": "",
+        "value": 25,
+        "business": "Handmade by Luci",
+        "businessLink": ""
+      }
+    ]
   },
   {
-    "item": "Mud & Bloom gardening/nature craft box",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "Mud & Bloom",
-    "businessLink": "https://www.mudandbloom.com/"
+    "lot": "To support local",
+    "description": "You can’t buy happiness but you can buy local.",
+    "image": "/images/items/sevenoaks.jpg",
+    "total_value": 95,
+    "items": [
+      {
+        "item": "A LoveLocal discount card",
+        "short_name": "A LoveLocal discount card",
+        "description": "",
+        "terms": "Card valid for one year; will autorenew unless cancelled",
+        "value": 20,
+        "business": "LoveLocal",
+        "businessLink": "http://lovelocalcard.com/"
+      },
+      {
+        "item": "A bottle of wine & desserts for 2 at Prezzo",
+        "short_name": "A bottle of wine & desserts for 2",
+        "description": "",
+        "terms": "",
+        "value": 30,
+        "business": "Prezzo Sevenoaks",
+        "businessLink": "https://www.prezzorestaurants.co.uk/restaurant/sevenoaks/"
+      },
+      {
+        "item": "A £25 COOK voucher",
+        "short_name": "A £25 COOK voucher",
+        "description": "",
+        "terms": "Valid until 16/11/22",
+        "value": 25,
+        "business": "COOK Sevenoaks",
+        "businessLink": "https://www.cookfood.net/shops/Sevenoaks"
+      },
+      {
+        "item": "A £20 voucher for Dominos Pizza Sevenoaks ",
+        "short_name": "£20 Dominos voucher",
+        "description": "",
+        "terms": "Online orders only, excludes ice cream and other offers. Only valid for Sevenoaks branch. Valid until 31st March 2021",
+        "value": 20,
+        "business": "Dominos Pizza",
+        "businessLink": "https://www.dominos.co.uk/sevenoaks"
+      }
+    ]
   },
   {
-    "item": "Diane Carey Books",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "",
-    "businessLink": ""
+    "lot": "5 minutes of peace",
+    "description": "Warm and cosy treat for your nose and for you to eat.",
+    "image": "/images/items/coffee.jpg",
+    "total_value": 57,
+    "items": [
+      {
+        "item": "£10 of Malabar vouchers",
+        "short_name": "£10 of Malabar vouchers",
+        "description": "",
+        "terms": "expires 1st December 2021",
+        "value": 10,
+        "business": "Malabar Riverhead",
+        "businessLink": "https://www.malabarcoffee.co.uk/"
+      },
+      {
+        "item": "A box of handmade chocolates",
+        "short_name": "A box of handmade chocolates",
+        "description": "",
+        "terms": "",
+        "value": 15,
+        "business": "The Chocolate Shop",
+        "businessLink": "https://thechocolateshopsevenoaks.co.uk/"
+      },
+      {
+        "item": "A Sara Miller for Portmeirion porcelain teacup and saucer set",
+        "short_name": "Portmeirion porcelain teacup and saucer set",
+        "description": "",
+        "terms": "",
+        "value": 18,
+        "business": "",
+        "businessLink": ""
+      },
+      {
+        "item": "A 'Vanilla Frosting' Yankee Candle Home Inspirations candle ",
+        "short_name": "Yankee Candle",
+        "description": "",
+        "terms": "",
+        "value": 14,
+        "business": "",
+        "businessLink": ""
+      }
+    ]
   },
   {
-    "item": "Fresh Christmas wreath",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "Rachael Hovey",
-    "businessLink": ""
+    "lot": "Beautiful family memories to treasure",
+    "description": "Snap up this prize and be caught in a moment of memories in a beautiful photo shoot.",
+    "image": "/images/items/family-017.jpg",
+    "total_value": 199,
+    "items": [
+      {
+        "item": "A mini family photo shoot ",
+        "short_name": "A mini family photo shoot ",
+        "description": "",
+        "terms": "Includes 5 x digital images. Location local to Sevenoaks. Valid until 13th June 2021.",
+        "value": 25,
+        "business": "Estelle Thompson Photography ",
+        "businessLink": "https://estellethompsonphotography.com/"
+      },
+      {
+        "item": "A beautiful multi-aperture photo frame to display your prints!",
+        "short_name": "A beautiful multi-aperture photo frame",
+        "description": "",
+        "terms": "",
+        "value": 10,
+        "business": "",
+        "businessLink": ""
+      }
+    ]
   },
   {
-    "item": "Handmade Christmas cake",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": 10,
-    "business": "Eileen Norburn",
-    "businessLink": ""
+    "lot": "A good night's sleep",
+    "description": "Famous local sleep consultant to make sure there are no more parties in this crib!",
+    "image": "/images/items/sleep.jpg",
+    "total_value": 245,
+    "items": [
+      {
+        "item": "A bespoke sleep support Virtual Package including consultation, programme and full support",
+        "short_name": "A bespoke sleep support Virtual Package",
+        "description": "",
+        "terms": "",
+        "value": 245,
+        "business": "The Daddy Sleep Consultant",
+        "businessLink": "https://www.thedaddysleepconsultant.com/"
+      }
+    ]
   },
   {
-    "item": "Personalised Christmas tree decorations for family of 4",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "Handmade by Luci",
-    "businessLink": ""
+    "lot": "A night in with the family",
+    "description": "When you don’t want to venture out on those cold nights - snuggle up in front of a great Christmas movie and delicious food.",
+    "image": "/images/items/gatheringchoc.jpg",
+    "total_value": 50,
+    "items": [
+      {
+        "item": "A family-sized chocolate hamper + teddy bear",
+        "short_name": "",
+        "description": "",
+        "terms": "",
+        "value": 10,
+        "business": "The Gathering",
+        "businessLink": ""
+      },
+      {
+        "item": "A £40 voucher for Dominos Pizza Sevenoaks",
+        "short_name": "£40 Dominos voucher",
+        "description": "",
+        "terms": "Online orders only, excludes ice cream and other offers. Only valid for Sevenoaks branch. Valid until 31st March 2021",
+        "value": 40,
+        "business": "",
+        "businessLink": ""
+      }
+    ]
   },
   {
-    "item": "Love Local Card",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": 20,
-    "business": "LoveLocal",
-    "businessLink": "http://lovelocalcard.com/"
+    "lot": "Get fit at home",
+    "description": "Enjoy a virtual exercise class and find your boost at home.",
+    "image": "/images/items/boostfit.jpg",
+    "total_value": 20,
+    "items": [
+      {
+        "item": "One month's BOOSTme subscription",
+        "short_name": "BOOSTme subscription",
+        "description": "",
+        "terms": "",
+        "value": 20,
+        "business": "BoostFit",
+        "businessLink": "https://boostfit.com/"
+      }
+    ]
   },
   {
-    "item": "Wine & dessert at Prezzo",
-    "image": "/images/placeholder.jpg",
-    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
-    "price": "TBD",
-    "business": "Prezzo",
-    "businessLink": "https://www.prezzorestaurants.co.uk/restaurant/sevenoaks/"
+    "lot": "Some much-needed 'me' time",
+    "description": "Let someone else to put you in a state of relaxation.",
+    "image": "/images/items/thrive.jpeg",
+    "total_value": 68,
+    "items": [
+      {
+        "item": "60 min foot, sports or facial reflexology session",
+        "short_name": "60 minute reflexology session",
+        "description": "",
+        "terms": "Expires December 2021",
+        "value": 40,
+        "business": "THRIVE reflexology",
+        "businessLink": "https://thrivesevenoaks.co.uk/"
+      },
+      {
+        "item": "TROPIC Skincare Discovery Kit ",
+        "short_name": "TROPIC Skincare Discovery Kit ",
+        "description": "",
+        "terms": "Expires December 2021",
+        "value": 28,
+        "business": "Louise Dunmall",
+        "businessLink": ""
+      }
+    ]
+  },
+  {
+    "lot": "To improve my fitness",
+    "description": "1,2,1,2 - When you need that push to train let Sevenoaks circuit be your aim.",
+    "image": "/images/items/healthfitness.jpg",
+    "total_value": 40,
+    "items": [
+      {
+        "item": "A personal fitness assessment, including Vo2 Max (oxygen), Blood Pressure and Resting Heart Rates, Flexibilty & Strength tests, and more!",
+        "short_name": "A personal fitness assessment",
+        "description": "",
+        "terms": "Relevant paperwork to be completed in advance (will be provided). Please consult your gp if you have concerns about any underlying health conditions prior to the session. ",
+        "value": 30,
+        "business": "S.E.S Health & Fitness",
+        "businessLink": "https://www.facebook.com/seshealthfitness/"
+      },
+      {
+        "item": "2 outdoor sessions with Sevenoaks Circuits ",
+        "short_name": "2 outdoor sessions with Sevenoaks Circuits ",
+        "description": "",
+        "terms": "",
+        "value": 10,
+        "business": "Sevenoaks Circuits",
+        "businessLink": "https://www.facebook.com/sevenoakscircuits/"
+      }
+    ]
+  },
+  {
+    "lot": "Some tasty treats...",
+    "description": "This isn’t just a hamper, this is an M&S hamper!",
+    "image": "/images/items/hamper.jpg",
+    "total_value": 40,
+    "items": [
+      {
+        "item": "A luxury Marks & Spencer Collection Christmas food and wine hamper",
+        "short_name": "Marks & Spencer hamper",
+        "description": "",
+        "terms": "",
+        "value": 40,
+        "business": "Thackray Williams Solicitors, Sevenoaks",
+        "businessLink": "http://www.thackraywilliams.com/"
+      }
+    ]
+  },
+  {
+    "lot": "Enchanting eyes!",
+    "description": "Go on have a flutter and make those lashes do it too.",
+    "image": "/images/items/eye.jpg",
+    "total_value": 55,
+    "items": [
+      {
+        "item": "A full set of classic lashes ",
+        "short_name": "A full set of classic lashes",
+        "description": "",
+        "terms": "",
+        "value": 45,
+        "business": "Lashes by Elle's",
+        "businessLink": "https://www.facebook.com/lashesbyelles/"
+      },
+      {
+        "item": "A Revolution Beauty London eyeshadow kit",
+        "short_name": "A Revolution Beauty London eyeshadow kit",
+        "description": "",
+        "terms": "",
+        "value": 10,
+        "business": "",
+        "businessLink": ""
+      }
+    ]
+  },
+  {
+    "lot": "A night off from cooking!",
+    "description": "The best memories are made around the table.",
+    "image": "/images/items/kitchen.jpg",
+    "total_value": 80,
+    "items": [
+      {
+        "item": "A delicious 3-course meal for 4",
+        "short_name": "A delicious 3-course meal for 4",
+        "description": "",
+        "terms": "Cooked in your own home or delivered with heating instructions, dependant on Covid-19 guidelines. Valid from 2nd Jan 2021 until 30th July 2021.",
+        "value": 80,
+        "business": "Emma's Kitchen",
+        "businessLink": "https://www.facebook.com/Emmas-Kitchen-161587507778601/"
+      }
+    ]
+  },
+  {
+    "lot": "A fab new look!",
+    "description": "Transform yourself in the New Year.",
+    "image": "/images/items/macrhai.png",
+    "total_value": 75,
+    "items": [
+      {
+        "item": "A blow dry & luxury facial",
+        "short_name": "A blow dry & luxury facial",
+        "description": "",
+        "terms": "Valid until 4/4/2021",
+        "value": 70,
+        "business": "Mac & Rhai Hair Nails Beauty",
+        "businessLink": "https://www.facebook.com/MacRhaiHNB/"
+      },
+      {
+        "item": "A TiGi Bedhead 'Small Talk' volumising hair styling lotion",
+        "short_name": "A TiGi Bedhead 'Small Talk' volumising hair styling lotion",
+        "description": "",
+        "terms": "",
+        "value": 5,
+        "business": "",
+        "businessLink": ""
+      }
+    ]
+  },
+  {
+    "lot": "Family fun at the farm",
+    "description": "Ee-i-ee-i-o off to the farm we go.",
+    "image": "/images/items/GodstoneFarm-Playground.jpg",
+    "total_value": 35,
+    "items": [
+      {
+        "item": "Entry for 2 adults and 2 children to Godstone Farm",
+        "short_name": "Godstone Farm entry for 4",
+        "description": "",
+        "terms": "",
+        "value": 35,
+        "business": "Godstone Farm",
+        "businessLink": "https://www.godstonefarm.co.uk/"
+      }
+    ]
+  },
+  {
+    "lot": "A treat for the feet",
+    "description": "A unique reflexology for your feet.",
+    "image": "/images/items/reflex.jpg",
+    "total_value": 50,
+    "items": [
+      {
+        "item": "A 50 min Reflexology treatment",
+        "short_name": "A 50 min Reflexology treatment",
+        "description": "",
+        "terms": "Expires 31st Dec 2021",
+        "value": 40,
+        "business": "Your Nurturing Touch Massage Therapy",
+        "businessLink": "https://www.yournurturingtouch.co.uk/"
+      },
+      {
+        "item": "A Danish Collection scented candle",
+        "short_name": "A Danish Collection scented candle",
+        "description": "",
+        "terms": "",
+        "value": 10,
+        "business": "Danish Collection Sevenoaks",
+        "businessLink": "https://www.danishcollection.co.uk"
+      }
+    ]
+  },
+  {
+    "lot": "A bit of tranquility",
+    "description": "Log out, shut down - do yoga.",
+    "image": "/images/items/yoga.jpg",
+    "total_value": 35,
+    "items": [
+      {
+        "item": "A 60 min yoga class + relaxation eye pillow",
+        "short_name": "A 60 min yoga class + relaxation eye pillow",
+        "description": "",
+        "terms": "Valid for 1 x 60 min group yoga session in Shoreham Village. Not suitable for under 16s or during pregnancy. Expires 30th June 2021",
+        "value": 15,
+        "business": "Yoga by Lucy",
+        "businessLink": "https://yogabylucy.com/"
+      },
+      {
+        "item": "A Body Shop candle, wax melt and burner hamper",
+        "short_name": "A Body Shop candle, wax melt and burner hamper",
+        "description": "",
+        "terms": "",
+        "value": 20,
+        "business": "Rose O'Keefe",
+        "businessLink": ""
+      }
+    ]
+  },
+  {
+    "lot": "A neat and tidy garden!",
+    "description": "For a beautiful garden without a back ache.",
+    "image": "/images/items/garden.jpg",
+    "total_value": 40,
+    "items": [
+      {
+        "item": "2 hrs of gardening",
+        "short_name": "2 hrs of gardening",
+        "description": "",
+        "terms": "Excludes landscaping and removal of garden waste.",
+        "value": 40,
+        "business": "Sevenoaks Gardening",
+        "businessLink": ""
+      }
+    ]
+  },
+  {
+    "lot": "A game of golf",
+    "description": "Make it a hole in one.",
+    "image": "/images/items/golf.jpg",
+    "total_value": 170,
+    "items": [
+      {
+        "item": "A round for two at Knole Park Golf Club",
+        "short_name": "A round for two at Knole Park Golf Club",
+        "description": "",
+        "terms": "Mon - Fri only. Expires 31st December 2021. Players must produce a valid handicap certificate prior to play.",
+        "value": 170,
+        "business": "Knole Park Golf Club",
+        "businessLink": "https://www.knoleparkgolfclub.co.uk/"
+      }
+    ]
+  },
+  {
+    "lot": "A beautifully fragranced home!",
+    "description": "‘I have too many wax melts’ – said no one ever",
+    "image": "/images/items/china.jpg",
+    "total_value": 20,
+    "items": [
+      {
+        "item": "A Secret Garden China home fragrance gift set",
+        "short_name": "A Secret Garden China home fragrance gift set",
+        "description": "",
+        "terms": "Mon - Fri only. Expires 31st December 2021. Players must produce a valid handicap certificate prior to play.",
+        "value": 20,
+        "business": "Secret Garden China",
+        "businessLink": "https://secretgardenchina.co.uk/"
+      }
+    ]
+  },
+  {
+    "lot": "Some one-on-one personal training",
+    "description": "I just want to make you sweat.",
+    "image": "/images/items/bbg.jpg",
+    "total_value": "56 x 2",
+    "items": [
+      {
+        "item": "A 1hr personal training session (2 available)",
+        "short_name": "A 1hr personal training session (2 available)",
+        "description": "",
+        "terms": "Expires 31st March 2021",
+        "value": "56 x 2",
+        "business": "Better Body Group",
+        "businessLink": "https://betterbodygroup.co.uk/"
+      }
+    ]
+  },
+  {
+    "lot": "To be pampered in my own home",
+    "description": "Let the beauty come to you.",
+    "image": "/images/items/hodges.jpg",
+    "total_value": 50,
+    "items": [
+      {
+        "item": "A voucher for £50 of treatments + gift",
+        "short_name": "A voucher for £50 of treatments + gift",
+        "description": "",
+        "terms": "",
+        "value": 50,
+        "business": "Lindsey Hodges Mobile Beauty",
+        "businessLink": "https://www.facebook.com/Lindsey-Hodges-Mobile-Beauty-Therapist-254739134699759/"
+      }
+    ]
+  },
+  {
+    "lot": "Kit the kids out for the new term",
+    "description": "No more rush the uniform is on us.",
+    "image": "/images/items/horncastles.jpg",
+    "total_value": 59,
+    "items": [
+      {
+        "item": "£25 Horncastles voucher",
+        "short_name": "£25 Horncastles voucher",
+        "description": "",
+        "terms": "",
+        "value": 25,
+        "business": "Horncastles",
+        "businessLink": "https://www.horncastles.co.uk/"
+      },
+      {
+        "item": "£20 voucher and hair product",
+        "short_name": "£20 voucher and hair product",
+        "description": "",
+        "terms": "",
+        "value": 34,
+        "business": "Frank's Barbers Riverhead",
+        "businessLink": "https://www.franksbarbers.com/"
+      }
+    ]
+  },
+  {
+    "lot": "A date night!",
+    "description": "You, me and date night!",
+    "image": "/images/items/date.jpg",
+    "total_value": 63,
+    "items": [
+      {
+        "item": "£30 voucher for a meal for two at Zizzi Sevenoaks",
+        "short_name": "£30 Zizzi Sevenoaks voucher",
+        "description": "",
+        "terms": "Expires 30th June 2021",
+        "value": 30,
+        "business": "Zizzi Sevenoaks",
+        "businessLink": "https://www.zizzi.co.uk/italian/restaurants/sevenoaks"
+      },
+      {
+        "item": "Odeon Tickets",
+        "short_name": "Odeon Tickets",
+        "description": "",
+        "terms": "",
+        "value": 25,
+        "business": "Odeon",
+        "businessLink": "https://www.odeon.co.uk/"
+      },
+      {
+        "item": "Bottle of wine",
+        "short_name": "Bottle of wine",
+        "description": "",
+        "terms": "",
+        "value": 8,
+        "business": "",
+        "businessLink": ""
+      }
+    ]
+  },
+  {
+    "lot": "Get the kids reading!",
+    "description": "Books are uniquely portable magic.",
+    "image": "/images/items/jemma.jpg",
+    "total_value": 21,
+    "items": [
+      {
+        "item": "Personalised set of books signed by the author",
+        "short_name": "Personalised set of books signed by the author",
+        "description": "",
+        "terms": "",
+        "value": 21,
+        "business": "Jemma Hatt",
+        "businessLink": ""
+      }
+    ]
+  },
+  {
+    "lot": "Get the kids outdoors",
+    "description": "If you go down to the woods today be sure of a big surprise.",
+    "image": "/images/items/forest.jpg",
+    "total_value": 35,
+    "items": [
+      {
+        "item": "A Forest Kindergarten Holiday Club session",
+        "short_name": "A Forest Kindergarten Holiday Club session",
+        "description": "",
+        "terms": "One holiday club space for Easter, May, Summer holidays, October half term or Christmas 2021",
+        "value": 35,
+        "business": "Forest Kindergarten Sevenoaks",
+        "businessLink": "http://www.forest-kindergarten.co.uk/"
+      }
+    ]
+  },
+  {
+    "lot": "An adrenaline rush!",
+    "description": "Let’s jump and dive and fly through the sky.",
+    "image": "/images/items/bunjee.jpg",
+    "total_value": 49,
+    "items": [
+      {
+        "item": "A bunjee jump for one, in a choice of 8 locations including Brighton, Cambridgeshire and Bristol",
+        "short_name": "A bunjee jump for one",
+        "description": "",
+        "terms": "Valid until 12th July 2022. Min age 14, max. weight 120kg",
+        "value": 49,
+        "business": "BuyAGift",
+        "businessLink": "https://www.buyagift.co.uk/"
+      }
+    ]
+  },
+  {
+    "lot": "A delicious Thai takeaway",
+    "description": "Happiness is enjoying your local Thai food.",
+    "image": "/images/items/thai.jpg",
+    "total_value": 100,
+    "items": [
+      {
+        "item": "£100 voucher for FahSai Thai Foods",
+        "short_name": "£100 voucher for FahSai Thai Foods",
+        "description": "",
+        "terms": "expires 30/11/2021",
+        "value": 100,
+        "business": "FahSai Thai Foods, Dunton Green",
+        "businessLink": "https://www.facebook.com/FahSai-Thai-Foods-111426273819505/"
+      }
+    ]
+  },
+  {
+    "lot": "Gorgeous hands",
+    "description": "Life is too short to wait for your nails to dry.",
+    "image": "/images/items/nails.jpg",
+    "total_value": 30,
+    "items": [
+      {
+        "item": "A gel mini manicure",
+        "short_name": "A gel mini manicure",
+        "description": "",
+        "terms": "Valid until 4/4/2021",
+        "value": 25,
+        "business": "Mac & Rhai Hair Nails Beauty",
+        "businessLink": "https://www.facebook.com/MacRhaiHNB/"
+      },
+      {
+        "item": "Joules hand lotion",
+        "short_name": "Joules hand lotion",
+        "description": "",
+        "terms": "",
+        "value": 5,
+        "business": "",
+        "businessLink": ""
+      }
+    ]
+  },
+  {
+    "lot": "A post-Lockdown cut & blow dry!",
+    "description": "Love is in the hair.",
+    "image": "/images/items/designahead.jpg",
+    "total_value": 61,
+    "items": [
+      {
+        "item": "A cut & blow dry with top stylist Rachael",
+        "short_name": "A cut & blow dry with top stylist Rachael",
+        "description": "",
+        "terms": "",
+        "value": 61,
+        "business": "Design-a-Head",
+        "businessLink": "https://www.designaheadhairdressing.co.uk/"
+      }
+    ]
+  },
+  {
+    "lot": "A barber's appointment!",
+    "description": "Get that lockdown hair sorted at Frank's!",
+    "image": "/images/items/franks.jpg",
+    "total_value": 34,
+    "items": [
+      {
+        "item": "£20 voucher to spend at Frank's Barbers",
+        "short_name": "£20 voucher to spend at Frank's Barbers",
+        "description": "",
+        "terms": "Mon-Fri only. Valid 6 months",
+        "value": 20,
+        "business": "Frank's Barbers Riverhead",
+        "businessLink": "https://www.franksbarbers.com/"
+      },
+      {
+        "item": "Hairtstyling products  from Frank",
+        "short_name": "Hairtstyling products from Frank",
+        "description": "",
+        "terms": "",
+        "value": 14,
+        "business": "Frank's Barbers Riverhead",
+        "businessLink": "https://www.franksbarbers.com/"
+      }
+    ]
+  },
+  {
+    "lot": "A home spa experience!",
+    "description": "Treat yourself without leaving the house!",
+    "image": "/images/items/bodyshop.jpg",
+    "total_value": 80,
+    "items": [
+      {
+        "item": "A Body Shop hamper of goodies worth £80!",
+        "short_name": "A Body Shop hamper of goodies worth £80!",
+        "description": "",
+        "terms": "",
+        "value": 80,
+        "business": "Revitalise Your Radiance with Charlotte",
+        "businessLink": "https://www.facebook.com/revitaliseyourradiance/"
+      }
+    ]
+  },
+  {
+    "lot": "Trekking with Alpacas!",
+    "description": "A private Alpaca trek for up to 6 people at Reuthe's The Lost Gardens of Sevenoaks",
+    "image": "/images/items/alpacas.jpg",
+    "total_value": 75,
+    "items": [
+      {
+        "item": "A private Alpaca trek for up to 6 people at Reuthe's The Lost Gardens of Sevenoaks",
+        "short_name": "Reuthe's Alpaca Trek",
+        "description": "<strong>Reuthe's The Lost Gardens of Sevenoaks</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "terms": "Valid on Wednesdays only in Jan & Feb 2021",
+        "value": 75,
+        "business": "Reuthe’s Lost Gardens of Sevenoaks",
+        "businessLink": "https://reuthes.com/"
+      }
+    ]
   }
 ]
