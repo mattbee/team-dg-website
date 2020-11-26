@@ -2,8 +2,8 @@
   {
     "lot": "Keep the kids entertained",
     "description": "A perfect family package to keep the children occupied.",
-    "image": "/images/items/alpacas.jpg",
-    "total_value": 145,
+    "image": "/images/items/street.jpg",
+    "total_value": 93.80,
     "items": [
       {
         "item": "1 month membership to Gymboree Sevenoaks",
@@ -15,18 +15,18 @@
         "businessLink": "https://www.gymboreeclasses.co.uk/franchisees/sevenoaks/#about-us"
       },
       {
-        "item": "A private Alpaca trek for up to 6 people at Reuthe's The Lost Gardens of Sevenoaks",
-        "short_name": "Reuthe's Alpaca Trek",
-        "description": "<strong>Reuthe's The Lost Gardens of Sevenoaks</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
-        "terms": "Valid on Wednesdays only in Jan & Feb 2021",
-        "value": 75,
-        "business": "Reuthe’s Lost Gardens of Sevenoaks",
-        "businessLink": "https://reuthes.com/"
+        "item": "4 tickets to Little Street Riverhead",
+        "short_name": "4 tickets to Little Street Riverhead",
+        "description": "",
+        "terms": "Valid until 1st April 2021",
+        "value": 23.8,
+        "business": "Little Street Riverhead",
+        "businessLink": ""
       },
       {
         "item": "A children's seasonal gardening/nature craft activity box",
         "short_name": "Mud & Bloom Nature Box",
-        "description": "<strong>Mud & Bloom box</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "description": "",
         "terms": "Suitable for 3-8 yrs",
         "value": 12,
         "business": "Mud & Bloom",
@@ -758,5 +758,22 @@
         "businessLink": "https://www.facebook.com/revitaliseyourradiance/"
       }
     ]
-  }
+  },
+  {
+    "lot": "Trekking with Alpacas!",
+    "description": "A private Alpaca trek for up to 6 people at Reuthe's The Lost Gardens of Sevenoaks",
+    "image": "/images/items/alpacas.jpg",
+    "total_value": 75,
+    "items": [
+      {
+        "item": "A private Alpaca trek for up to 6 people at Reuthe's The Lost Gardens of Sevenoaks",
+        "short_name": "Reuthe's Alpaca Trek",
+        "description": "<strong>Reuthe's The Lost Gardens of Sevenoaks</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "terms": "Valid on Wednesdays only in Jan & Feb 2021",
+        "value": 75,
+        "business": "Reuthe’s Lost Gardens of Sevenoaks",
+        "businessLink": "https://reuthes.com/"
+      }
+    ]
+  },
 ]
