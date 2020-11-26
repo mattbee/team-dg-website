@@ -47,7 +47,7 @@
     "lot": "A beautifully homemade Christmas",
     "description": "Adding a magical Christmas touch of beautiful handmade gifts to your home.",
     "image": "/images/items/xmas.jpeg",
-    "total_value": 60,
+    "total_value": 70,
     "items": [
       {
         "item": "A fresh handmade Christmas wreath ",
@@ -212,7 +212,7 @@
   {
     "lot": "A night in with the family",
     "description": "When you don’t want to venture out on those cold nights - snuggle up in front of a great Christmas movie and delicious food.",
-    "image": "/images/items/nightin.jpg",
+    "image": "/images/items/gatheringchoc.jpg",
     "total_value": 50,
     "items": [
       {
@@ -359,8 +359,8 @@
         "description": "",
         "terms": "Cooked in your own home or delivered with heating instructions, dependant on Covid-19 guidelines. Valid from 2nd Jan 2021 until 30th July 2021.",
         "value": 80,
-        "business": "Emma's Table",
-        "businessLink": "https://www.emmas-table.co.uk/"
+        "business": "Emma's Kitchen",
+        "businessLink": "https://www.facebook.com/Emmas-Kitchen-161587507778601/"
       }
     ]
   },
@@ -496,7 +496,7 @@
   {
     "lot": "A beautifully fragranced home!",
     "description": "‘I have too many wax melts’ – said no one ever",
-    "image": "/images/items/home-frag.jpg",
+    "image": "/images/items/china.jpg",
     "total_value": 20,
     "items": [
       {
@@ -574,7 +574,7 @@
     "lot": "A date night!",
     "description": "You, me and date night!",
     "image": "/images/items/date.jpg",
-    "total_value": 64,
+    "total_value": 63,
     "items": [
       {
         "item": "£30 voucher for a meal for two at Zizzi Sevenoaks",
@@ -590,7 +590,7 @@
         "short_name": "Odeon Tickets",
         "description": "",
         "terms": "",
-        "value": 26,
+        "value": 25,
         "business": "Odeon",
         "businessLink": "https://www.odeon.co.uk/"
       },
@@ -739,6 +739,23 @@
         "value": 14,
         "business": "Frank's Barbers Riverhead",
         "businessLink": "https://www.franksbarbers.com/"
+      }
+    ]
+  },
+  {
+    "lot": "A home spa experience!",
+    "description": "Treat yourself without leaving the house!",
+    "image": "/images/items/bodyshop.jpg",
+    "total_value": 80,
+    "items": [
+      {
+        "item": "A Body Shop hamper of goodies worth £80!",
+        "short_name": "A Body Shop hamper of goodies worth £80!",
+        "description": "",
+        "terms": "",
+        "value": 80,
+        "business": "Revitalise Your Radiance with Charlotte",
+        "businessLink": "https://www.facebook.com/revitaliseyourradiance/"
       }
     ]
   }
