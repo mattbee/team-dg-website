@@ -3,7 +3,7 @@
     "lot": "Keep the kids entertained",
     "description": "A perfect family package to keep the children occupied.",
     "image": "/images/items/street.jpg",
-    "total_value": 93.80,
+    "total_value": "93.80",
     "items": [
       {
         "item": "1 month membership to Gymboree Sevenoaks",
@@ -646,10 +646,10 @@
     "total_value": 49,
     "items": [
       {
-        "item": "A bunjee jump for one, in a choice of 8 locations including Brighton, Cambridgeshire and Bristol",
+        "item": "A bunjee jump for one, in a choice of three locations for this experience: Maidenhead, Middlesbrough and Rotherham.",
         "short_name": "A bunjee jump for one",
         "description": "",
-        "terms": "Valid until 12th July 2022. Min age 14, max. weight 120kg",
+        "terms": "Valid for 10 months from date of issue. Age and weight restrictions apply.",
         "value": 49,
         "business": "BuyAGift",
         "businessLink": "https://www.buyagift.co.uk/"
