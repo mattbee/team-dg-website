@@ -17,13 +17,20 @@ title: Team DG - Dunton Green PTA Fundraising
         <img class="item__image" src="{{lot.image}}" alt="" />
       </div>
       <h3 class="item__title" ><span class="item__number">{{ loop.index }}.</span> {{ lot.lot }}</h3>
+
       {% for item in lot.items %}
         {% if loop.length == 1 and loop.last == true %}
-          <p class="item_list__count">{{ loop.length }} item</p>
+          <p class="item_list__count">{{ loop.length }} item:</p>
         {% elif loop.last == true %}
-          <p class="item_list__count">{{ loop.length }} items</p>
+          <p class="item_list__count">{{ loop.length }} items:</p>
         {% endif %}
-      {%- endfor -%}
+      {% endfor %}
+      <ul>
+        {% for item in lot.items %}
+            <li>{{ item.short_name }}</li>
+        {%- endfor -%}
+      </ul>
+
       <a href="lots/{{ lot.lot | slug }}" class="btn">See more and bid</a>
     </li>
   {%- endfor -%}
