@@ -36,7 +36,7 @@ title: Team DG
     <nav>
       <ul>
         <li><a href="/terms/">Terms</a></li>
-        <li><a href="/privacy/">Privacy</a></li>
+        {% if status.live == 'true' %}<li><a href="/privacy/">Privacy</a></li>{% endif %}
       </ul>
     </nav>
   </footer>
