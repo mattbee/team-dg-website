@@ -33,6 +33,8 @@ permalink: "lots/{{ lot.lot | slug }}/"
 
 </div>
 
+{% if status.live == 'true' %}
+
 <div class="bid-form" id="bidFormContainer">
   <form action="/bid-success/" id="bidForm" data-confirmation="/lots/{{ lot.lot | slug }}/confirmation/" name="Silent Auction Bid" method="POST" data-netlify="true">
     <div class="form-error" id="form-error" style="display: none;">
@@ -67,6 +69,12 @@ permalink: "lots/{{ lot.lot | slug }}/"
     <p>Thanks for your bid, we'll be in touch soon if you're the highest bid.</p>
   </div>
 </div>
+
+{% else %}
+
+  <h4>Auction opens 30th November, come back then and bid for this wonderful prize.</h4>
+
+{% endif %}
 
 <div class="pagination">
   <ul>
