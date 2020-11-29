@@ -45,20 +45,20 @@ permalink: "lots/{{ lot.lot | slug }}/"
     <input type="hidden" name="item" value="{{ lot.lot }}" />
     <div class="form-row bid-amount">
       <label for="bid_amount" class="label-inline"><strong>Your bid amount:</strong></label>
-      <span class="bid-amount__currency">£</span> <input type="number" name="bid_amount" id="bid_amount" step="any" class="input-narrow" placeholder="eg. 10.99" />
+      <span class="bid-amount__currency">£</span> <input type="number" name="bid_amount" id="bid_amount" step="any" class="input-narrow" required="required" placeholder="eg. 10.99" />
       <p class="form-help">Enter your bid amount, in pounds and pence.</p>
     </div>
     <div class="form-row">
       <label for="name">Your name</label>
-      <input type="text" name="name" id="name" placeholder="e.g. Jane Smith" />
+      <input type="text" name="name" id="name" placeholder="e.g. Jane Smith" required="required" />
     </div>
     <div class="form-row">
       <label for="email">Your email</label>
-      <input type="text" name="email" id="email" placeholder="e.g. js@example.com" />
+      <input type="text" name="email" id="email" placeholder="e.g. js@example.com" required="required" />
     </div>
     <div class="form-row">
       <label for="telephone">Your telephone number</label>
-      <input type="text" name="telephone" id="telephone" placeholder="e.g. 01234123456" />
+      <input type="text" name="telephone" id="telephone" placeholder="e.g. 01234123456" required="required" />
     </div>
     <div class="form-row">
       <button type="submit" class="btn">Place your bid!</button>
