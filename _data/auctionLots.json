@@ -1,12 +1,12 @@
 [
   {
     "lot": "Keep the kids entertained",
-    "description": "A perfect family package to keep the children occupied.",
+    "description": "A selection of books and activities to keep the kids happy.",
     "image": "/images/items/street.jpg",
     "total_value": "93.80",
     "items": [
       {
-        "item": "1 month membership to Gymboree Sevenoaks",
+        "item": "1 month membership to Gymboree, Sevenoaks",
         "short_name": "Gymboree membership",
         "description": "",
         "terms": "Valid until 30/05/2021",
@@ -15,16 +15,16 @@
         "businessLink": "https://www.gymboreeclasses.co.uk/franchisees/sevenoaks/#about-us"
       },
       {
-        "item": "4 tickets to Little Street Riverhead",
+        "item": "4 tickets to Little Street in Riverhead",
         "short_name": "4 tickets to Little Street Riverhead",
         "description": "",
         "terms": "Valid until 1st April 2021",
-        "value": 23.8,
+        "value": 23.80,
         "business": "Little Street Riverhead",
         "businessLink": ""
       },
       {
-        "item": "A children's seasonal gardening/nature craft activity box",
+        "item": "A Mud & Bloom nature activity box",
         "short_name": "Mud & Bloom Nature Box",
         "description": "",
         "terms": "Suitable for 3-8 yrs",
@@ -33,7 +33,7 @@
         "businessLink": "https://www.mudandbloom.com/"
       },
       {
-        "item": "A set of 4 children's books, beautifully illustrated and signed by this local author!",
+        "item": "4 children's books, beautifully illustrated and signed by this local author!",
         "short_name": "4 children's books (by Diane Carey)",
         "description": "<strong>Children's books set</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
         "terms": "",
@@ -44,8 +44,8 @@
     ]
   },
   {
-    "lot": "A beautifully homemade Christmas",
-    "description": "Adding a magical Christmas touch of beautiful handmade gifts to your home.",
+    "lot": "A wonderful homemade Christmas",
+    "description": "Add a touch of Christmas magic to your home with these beautiful handmade gifts.",
     "image": "/images/items/xmas.jpeg",
     "total_value": 70,
     "items": [
@@ -68,7 +68,7 @@
         "businessLink": ""
       },
       {
-        "item": "Personalised Christmas tree decorations for family of 4",
+        "item": "Personalised Christmas tree decorations for a family of 4",
         "short_name": "Personalised Christmas tree decorations",
         "description": "",
         "terms": "",
@@ -79,8 +79,8 @@
     ]
   },
   {
-    "lot": "To support local",
-    "description": "You can’t buy happiness but you can buy local.",
+    "lot": "Keep it local ",
+    "description": "Support some local businesses and enjoy some great treats.",
     "image": "/images/items/sevenoaks.jpg",
     "total_value": 95,
     "items": [
@@ -112,25 +112,25 @@
         "businessLink": "https://www.cookfood.net/shops/Sevenoaks"
       },
       {
-        "item": "A £20 voucher for Dominos Pizza Sevenoaks ",
+        "item": "A £20 voucher for Domino's Pizza Sevenoaks ",
         "short_name": "£20 Dominos voucher",
         "description": "",
         "terms": "Online orders only, excludes ice cream and other offers. Only valid for Sevenoaks branch. Valid until 31st March 2021",
         "value": 20,
-        "business": "Dominos Pizza",
+        "business": "Domino's Pizza",
         "businessLink": "https://www.dominos.co.uk/sevenoaks"
       }
     ]
   },
   {
-    "lot": "5 minutes of peace",
-    "description": "Warm and cosy treat for your nose and for you to eat.",
+    "lot": "Five minutes' peace",
+    "description": "Go on, treat yourself to some pure indulgence.",
     "image": "/images/items/coffee.jpg",
     "total_value": 57,
     "items": [
       {
-        "item": "£10 of Malabar vouchers",
-        "short_name": "£10 of Malabar vouchers",
+        "item": "£10 Malabar vouchers",
+        "short_name": "£10 Malabar vouchers",
         "description": "",
         "terms": "expires 1st December 2021",
         "value": 10,
@@ -168,7 +168,7 @@
   },
   {
     "lot": "Beautiful family memories to treasure",
-    "description": "Snap up this prize and be caught in a moment of memories in a beautiful photo shoot.",
+    "description": "Snap up this fantastic prize and surprise your family with a professional photo shoot.",
     "image": "/images/items/family-017.jpg",
     "total_value": 199,
     "items": [
@@ -216,7 +216,7 @@
     "total_value": 50,
     "items": [
       {
-        "item": "A family-sized chocolate hamper + teddy bear",
+        "item": "A family-sized chocolate hamper & teddy bear",
         "short_name": "A family-sized chocolate hamper",
         "description": "",
         "terms": "",
@@ -225,7 +225,7 @@
         "businessLink": ""
       },
       {
-        "item": "A £40 voucher for Dominos Pizza Sevenoaks",
+        "item": "A £40 voucher for Domino's Pizza Sevenoaks",
         "short_name": "£40 Dominos voucher",
         "description": "",
         "terms": "Online orders only, excludes ice cream and other offers. Only valid for Sevenoaks branch. Valid until 31st March 2021",
@@ -259,7 +259,7 @@
     "total_value": 68,
     "items": [
       {
-        "item": "60 min foot, sports or facial reflexology session",
+        "item": "60-minute foot, sports or facial reflexology session",
         "short_name": "60 minute reflexology session",
         "description": "",
         "terms": "Expires December 2021",
@@ -279,8 +279,8 @@
     ]
   },
   {
-    "lot": "To improve my fitness",
-    "description": "1,2,1,2 - When you need that push to train let Sevenoaks circuit be your aim.",
+    "lot": "Keep your New Year's resolution",
+    "description": "Kick start your health and fitness goals for 2021 with these awesome prizes.",
     "image": "/images/items/healthfitness.jpg",
     "total_value": 40,
     "items": [
@@ -288,7 +288,7 @@
         "item": "A personal fitness assessment, including Vo2 Max (oxygen), Blood Pressure and Resting Heart Rates, Flexibilty & Strength tests, and more!",
         "short_name": "A personal fitness assessment",
         "description": "",
-        "terms": "Relevant paperwork to be completed in advance (will be provided). Please consult your gp if you have concerns about any underlying health conditions prior to the session. ",
+        "terms": "Relevant paperwork to be completed in advance (will be provided). Please consult your GP if you have concerns about any underlying health conditions prior to the session. ",
         "value": 30,
         "business": "S.E.S Health & Fitness",
         "businessLink": "https://www.facebook.com/seshealthfitness/"
@@ -305,8 +305,8 @@
     ]
   },
   {
-    "lot": "Some tasty treats...",
-    "description": "This isn’t just a hamper, this is an M&S hamper!",
+    "lot": "A luxury M&S hamper",
+    "description": "This isn’t just a hamper, this is an M&S Christmas hamper!",
     "image": "/images/items/hamper.jpg",
     "total_value": 40,
     "items": [
@@ -323,7 +323,7 @@
   },
   {
     "lot": "Enchanting eyes!",
-    "description": "Go on have a flutter and make those lashes do it too.",
+    "description": "Go on, have a flutter and make those lashes do it too.",
     "image": "/images/items/eye.jpg",
     "total_value": 55,
     "items": [
@@ -366,7 +366,7 @@
   },
   {
     "lot": "A fab new look!",
-    "description": "Transform yourself in the New Year.",
+    "description": "Transform yourself for the New Year.",
     "image": "/images/items/macrhai.png",
     "total_value": 75,
     "items": [
@@ -408,13 +408,13 @@
     ]
   },
   {
-    "lot": "A treat for the feet",
-    "description": "A unique reflexology for your feet.",
+    "lot": "A treat for your senses",
+    "description": "Let the stresses and strains of the year melt away with a soothing reflexology treatment and scented candle.",
     "image": "/images/items/reflex.jpg",
     "total_value": 50,
     "items": [
       {
-        "item": "A 50 min Reflexology treatment",
+        "item": "A 50-minute Reflexology treatment",
         "short_name": "A 50 min Reflexology treatment",
         "description": "",
         "terms": "Expires 31st Dec 2021",
@@ -434,13 +434,13 @@
     ]
   },
   {
-    "lot": "A bit of tranquility",
-    "description": "Log out, shut down - do yoga.",
+    "lot": "60 minutes of pure zen",
+    "description": "Turn off your computer, put down your phone and enjoy some peace and tranquility.",
     "image": "/images/items/yoga.jpg",
     "total_value": 35,
     "items": [
       {
-        "item": "A 60 min yoga class + relaxation eye pillow",
+        "item": "A 60-minute yoga class + relaxation eye pillow",
         "short_name": "A 60 min yoga class + relaxation eye pillow",
         "description": "",
         "terms": "Valid for 1 x 60 min group yoga session in Shoreham Village. Not suitable for under 16s or during pregnancy. Expires 30th June 2021",
@@ -461,7 +461,7 @@
   },
   {
     "lot": "A neat and tidy garden!",
-    "description": "For a beautiful garden without a back ache.",
+    "description": "Get a beautiful garden without the back ache.",
     "image": "/images/items/garden.jpg",
     "total_value": 40,
     "items": [
@@ -511,13 +511,13 @@
     ]
   },
   {
-    "lot": "Some one-on-one personal training",
+    "lot": "An hour with a personal trainer",
     "description": "I just want to make you sweat.",
     "image": "/images/items/bbg.jpg",
     "total_value": "56 x 2",
     "items": [
       {
-        "item": "A 1hr personal training session (2 available)",
+        "item": "A 1hr personal training session. We've got two up for grabs, so give us your best bid!",
         "short_name": "A 1hr personal training session (2 available)",
         "description": "",
         "terms": "Expires 31st March 2021",
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "lot": "To be pampered in my own home",
+    "lot": "Get pampered in your own home",
     "description": "Let the beauty come to you.",
     "image": "/images/items/hodges.jpg",
     "total_value": 50,
@@ -546,7 +546,7 @@
   },
   {
     "lot": "Kit the kids out for the new term",
-    "description": "No more rush the uniform is on us.",
+    "description": "No more rush, the uniform is on us!",
     "image": "/images/items/horncastles.jpg",
     "total_value": 59,
     "items": [
@@ -572,7 +572,7 @@
   },
   {
     "lot": "A date night!",
-    "description": "You, me and date night!",
+    "description": "Everything you need for a great (long awaited!) night out.",
     "image": "/images/items/date.jpg",
     "total_value": 63,
     "items": [
@@ -606,14 +606,14 @@
     ]
   },
   {
-    "lot": "Get the kids reading!",
-    "description": "Books are uniquely portable magic.",
+    "lot": "Adventure books for kids",
+    "description": " Send children on an exciting adventure with this great set of books for ages 8-12.",
     "image": "/images/items/jemma.jpg",
     "total_value": 21,
     "items": [
       {
-        "item": "Personalised set of books signed by the author",
-        "short_name": "Personalised set of books signed by the author",
+        "item": "Personalised set of books signed by local author,Jemma Hatt.",
+        "short_name": "Personalised set of books signed by author",
         "description": "",
         "terms": "",
         "value": 21,
@@ -623,8 +623,8 @@
     ]
   },
   {
-    "lot": "Get the kids outdoors",
-    "description": "If you go down to the woods today be sure of a big surprise.",
+    "lot": "Forest club for kids",
+    "description": "Build dens, climb trees, explore the woods and let your imagination run wild.",
     "image": "/images/items/forest.jpg",
     "total_value": 35,
     "items": [
@@ -700,8 +700,8 @@
     ]
   },
   {
-    "lot": "A post-Lockdown cut & blow dry!",
-    "description": "Love is in the hair.",
+    "lot": "A post-lockdown cut & blow dry",
+    "description": "Because, after the year we've just had, you're absolutely worth it.",
     "image": "/images/items/designahead.jpg",
     "total_value": 61,
     "items": [
@@ -760,8 +760,8 @@
     ]
   },
   {
-    "lot": "Trekking with Alpacas!",
-    "description": "A private Alpaca trek for up to 6 people at Reuthe's The Lost Gardens of Sevenoaks",
+    "lot": "Go Trekking with Alpacas",
+    "description": "Yes, you did read that right! This is your chance to go on a private Alpaca trek at Reuthe's The Lost Gardens of Sevenoaks",
     "image": "/images/items/alpacas.jpg",
     "total_value": 75,
     "items": [
