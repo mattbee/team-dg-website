@@ -5,6 +5,8 @@ title: Team DG - Dunton Green PTA Fundraising
 
 <h2 class="sam-farty-pants-big-green-heading">All I want for Christmas...</h2>
 
+{% if status.live == 'true' %}
+
 <h3>Roll up for the Team DG silent auction!</h3>
 
 <p>After a difficult year, we thought you deserved something special this Christmas. So, we’ve turned our most popular stall at the school bazaar into our biggest ever <strong>silent auction</strong>.</p>
@@ -13,6 +15,13 @@ title: Team DG - Dunton Green PTA Fundraising
 <p>As always, all money raised goes towards our lovely school. Keep an eye on your inbox to find out if you’ve won.</p>
 <p>Happy bidding and good luck!</p>
 
+{% else %}
+
+<h3>The Team DG silent auction has finished!</h3>
+
+<p>Thanks for all your bids, we're working out the winners and will email payment links and collection details very soon.</p>
+
+{% endif %}
 
 <ul class="item_list">
   {%- for lot in auctionLots -%}
