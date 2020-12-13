@@ -45,7 +45,7 @@ title: Team DG - Dunton Green PTA Fundraising
         {%- endfor -%}
       </ul>
 
-      <a href="lots/{{ lot.lot | slug }}" class="btn">See more and bid</a>
+      <a href="lots/{{ lot.lot | slug }}" class="btn">See more{% if status.live == 'true' %} and bid{% endif %}</a>
     </li>
   {%- endfor -%}
 </ul>
