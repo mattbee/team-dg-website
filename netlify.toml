@@ -4,7 +4,7 @@
 [context.production]
   command = 'gulp && eleventy build'
   publish = '_site/'
-  environment = { AUCTION_LIVE = "false" }
+  environment = { AUCTION_LIVE = "true" }
 
 [context.staging]
   command = 'gulp && eleventy build'

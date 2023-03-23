@@ -1,80 +1,52 @@
 [
   {
-    "lot": "Keep the kids entertained",
-    "description": "A selection of books and activities to keep the kids happy.",
-    "image": "/images/items/street.jpg",
-    "total_value": "93.80",
+    "lot": "2 FA Cup Final Tickets",
+    "description": "It could be Brighton! ",
+    "image": "/images/items/wembley.jpg",
+    "total_value": "£250+",
     "items": [
       {
-        "item": "1 month membership to Gymboree, Sevenoaks",
-        "short_name": "Gymboree membership",
+        "item": "2 FA Cup Final tickets",
+        "short_name": "It matters more at Wembley",
         "description": "",
         "terms": "Valid until 30/05/2021",
-        "value": 38,
-        "business": "Gymboree Sevenoaks",
-        "businessLink": "https://www.gymboreeclasses.co.uk/franchisees/sevenoaks/#about-us"
-      },
-      {
-        "item": "4 tickets to Little Street in Riverhead",
-        "short_name": "4 tickets to Little Street Riverhead",
-        "description": "",
-        "terms": "Valid until 1st April 2021",
-        "value": 23.80,
-        "business": "Little Street Riverhead",
-        "businessLink": ""
-      },
-      {
-        "item": "A Mud & Bloom nature activity box",
-        "short_name": "Mud & Bloom Nature Box",
-        "description": "",
-        "terms": "Suitable for 3-8 yrs",
-        "value": 12,
-        "business": "Mud & Bloom",
-        "businessLink": "https://www.mudandbloom.com/"
-      },
-      {
-        "item": "4 children's books, beautifully illustrated and signed by this local author!",
-        "short_name": "4 children's books (by Diane Carey)",
-        "description": "<strong>Children's books set</strong> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
-        "terms": "",
-        "value": 20,
-        "business": "Diane Carey",
-        "businessLink": ""
+        "value": 150,
+        "business": "Wembley Stadium",
+        "businessLink": "https://www.thefa.com/competitions/thefacup"
       }
     ]
   },
   {
-    "lot": "A wonderful homemade Christmas",
-    "description": "Add a touch of Christmas magic to your home with these beautiful handmade gifts.",
-    "image": "/images/items/xmas.jpeg",
-    "total_value": 70,
+    "lot": "4 FA Cup Semi Final Tickets",
+    "description": "Brighton or Man Utd sections!",
+    "image": "/images/items/wembley.jpg",
+    "total_value": "£320",
     "items": [
       {
-        "item": "A fresh handmade Christmas wreath ",
-        "short_name": "Handmade Christmas wreath",
+        "item": "2 FA Cup Final tickets",
+        "short_name": "It matters more at Wembley",
+        "description": "",
+        "terms": "Valid until 30/05/2021",
+        "value": 80,
+        "business": "Wembley Stadium",
+        "businessLink": "https://www.thefa.com/competitions/thefacup"
+      }
+    ]
+  },
+  {
+    "lot": "4 Tickets to Harry Styles at Wembley",
+    "description": "Choose any of his 4 nights at Wembley",
+    "image": "/images/items/harrystyles.jpeg",
+    "total_value": "£420",
+    "items": [
+      {
+        "item": "Set of 4 tickets to Harry Styles 13th, 14th, 16th or 17 June 2023",
+        "short_name": "Harry Styles Tickets x 4",
         "description": "",
         "terms": "",
         "value": 35,
         "business": "Wild Gardener",
         "businessLink": "https://www.facebook.com/wildgardenerRachael/"
-      },
-      {
-        "item": "A traditional, fully iced Christmas fruit cake",
-        "short_name": "Traditional Christmas cake",
-        "description": "",
-        "terms": "Contains nuts, dairy and gluten",
-        "value": 10,
-        "business": "Eileen Norburn",
-        "businessLink": ""
-      },
-      {
-        "item": "Personalised Christmas tree decorations for a family of 4",
-        "short_name": "Personalised Christmas tree decorations",
-        "description": "",
-        "terms": "",
-        "value": 25,
-        "business": "Handmade by Luci",
-        "businessLink": ""
       }
     ]
   },

@@ -1,4 +1,4 @@
-$green: #235b27;
+$blue: #5b88de;
 $black: #333;
 html {
   font-size: 20px;
@@ -28,8 +28,8 @@ body {
   font-size: 1.2em;
 }
 
-.sam-farty-pants-big-green-heading {
-  color: $green;
+.heading-large {
+  color: $blue;
   font-style: italic;
   font-size: 2rem;
 }
@@ -41,7 +41,7 @@ ol {
 }
 
 a {
-  color: $green;
+  color: $blue;
   text-decoration: underline;
   &:hover {
     color: #000;
@@ -51,7 +51,7 @@ a {
 
 .btn {
   display: inline-block;
-  background-color: $green;
+  background-color: $blue;
   color: white;
   padding: 10px 20px;
   font-weight: bold;
@@ -120,7 +120,7 @@ a {
 }
 
 .footer {
-  background: $green;
+  background: $blue;
   color: white;
   font-size: 0.8rem;
   padding: 3rem;
