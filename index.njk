@@ -1,23 +1,22 @@
 ---
 layout: base.njk
-title: Team DG - Dunton Green PTA Fundraising
+title: FrOGS - Friends of Goldstone School PTA Fundraising
 ---
 
 <h2 class="heading-large">Friends of Goldstone School Silent Auction</h2>
 
 {% if status.live == 'true' %}
 
-<h3>Roll up for the Team DG silent auction!</h3>
+<h3>Roll up for the FrOGS silent auction!</h3>
 
-<p>After a difficult year, we thought you deserved something special this Christmas. So, we’ve turned our most popular stall at the school bazaar into our biggest ever <strong>silent auction</strong>.</p>
 <p>We’ve bundled together some wonderful treats for you and your family, so all you have to do is take a look at what’s on offer and bid on your favourites.</p>
-<p><strong>But hurry, bids close on 12th December. </strong></p>
-<p>As always, all money raised goes towards our lovely school. Keep an eye on your inbox to find out if you’ve won.</p>
+<p><strong>But hurry, bids close on 18th April 2023. </strong></p>
+<p>As always, all money raised goes towards our amazing school and FrOGS projects to help improve the chances of all pupils. Keep an eye on your inbox to find out if you’ve won.</p>
 <p>Happy bidding and good luck!</p>
 
 {% else %}
 
-<h3>The Team DG silent auction has finished!</h3>
+<h3>The FrOGS silent auction has finished!</h3>
 
 <p>Thanks for all your bids, we're working out the winners and will email payment links and collection details very soon.</p>
 
@@ -31,20 +30,9 @@ title: Team DG - Dunton Green PTA Fundraising
         <img class="item__image" src="{{lot.image}}" alt="" />
       </div>
       <h3 class="item__title" ><span class="item__number">{{ loop.index }}.</span> {{ lot.lot }}</h3>
-
-      {% for item in lot.items %}
-        {% if loop.length == 1 and loop.last == true %}
-          <p class="item_list__count">{{ loop.length }} item:</p>
-        {% elif loop.last == true %}
-          <p class="item_list__count">{{ loop.length }} items:</p>
-        {% endif %}
-      {% endfor %}
-      <ul>
-        {% for item in lot.items %}
-            <li>{{ item.short_name }}</li>
-        {%- endfor -%}
-      </ul>
-
+      <div class="lot-description">
+        <p>{{lot.short_description}}</p>
+      </div>
       <a href="lots/{{ lot.lot | slug }}" class="btn">See more{% if status.live == 'true' %} and bid{% endif %}</a>
     </li>
   {%- endfor -%}

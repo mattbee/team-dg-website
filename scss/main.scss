@@ -1,4 +1,5 @@
 $blue: #5b88de;
+$darkblue: #224ea0;
 $black: #333;
 html {
   font-size: 20px;
@@ -75,7 +76,7 @@ a {
 }
 
 .header {
-  background: #235b27;
+  background: $blue;
   color: #fff;
   padding: 0.5rem 0;
   .header__layout {
@@ -97,18 +98,18 @@ a {
     }
   }
   .header__logo {
-    background: url(/images/team-dg-04+dark-green-strap+green-roundal.png) no-repeat;
+    background: url(/images/frogs-logo-square.jpg) no-repeat;
     background-size: contain;
     height: 150px;
     text-indent: -9999px;
-    width: 150px;
+    width: 200px;
   }
   a {
     color: #fff;
     display: inline-block;
-    padding: 10px;
+    padding: 0px;
     text-decoration: none;
-    border-bottom: 4px solid #064109;
+    border-bottom: 4px solid $darkblue;
     &.current {
       border-bottom: 4px solid;
     }
@@ -151,10 +152,10 @@ a {
     }
   }
   .footer__school-logo {
-    background: url(/images/Dunton-Green-Primary-School.png) no-repeat;
+    background: url(/images/goldstone-logo.png) no-repeat;
     background-size: 100% auto;
-    width: 320px;
-    height: 80px;
+    width: 150px;
+    height: 150px;
     text-indent: -99999em;
   }
 }
@@ -180,6 +181,10 @@ a {
     margin: 10px;
     font-weight: bold;
   }
+}
+
+.lot-description {
+  padding: 0 20px 0 20px;
 }
 
 .item {
