@@ -34,10 +34,20 @@
     "short_description": "Voucher for a pitch at Camp Goldstone 2023.",
     "description": "Voucher for a pitch at Camp Goldstone 2023. On the 7/8th July 2023 Goldstone Primary School families take over a field at WoWo campsite. Spend time away from school with other families letting children experience wild living.",
     "image": "/images/items/wowo.jpeg",
-    "total_value": 84,
+    "total_value": 94,
     "terms": "",
     "business": "WoWo Campsite",
     "businessLink": "https://wowo.co.uk/"
+  },
+  {
+    "lot": "3D Lipo Hydro2 Facial Voucher",
+    "short_description": "One Express Hydro2 Facial at 3D Lipo Brighton",
+    "description": "3D Hydro2 Facial with Skintech utilises up to a dozen different advanced technologies, to target an array of universal skin concerns including dehydration, skin-ageing, lose skin, dull complexion and congestion. The Hydro2 Facial (also known as a Hydro facial) can offer more prescriptive, versatile and rounded facials than ever before, combined with Skintech technologies we now have some of the most advanced machine facials along the south coast. These technologies smooth hydrate and cleanse the skin resulting in a glowing more youthful appearance.",
+    "image": "/images/items/3dlipo.png",
+    "total_value": 50,
+    "terms": "",
+    "business": "3D Lipo Brighton",
+    "businessLink": "https://3dlipobrighton.com/"
   },
   {
     "lot": "CK One Fragrance",
