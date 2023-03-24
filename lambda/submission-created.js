@@ -3,6 +3,7 @@ sgMail.setApiKey(process.env.SG_MAIL)
 
 exports.handler = function(event) {
   const data = JSON.parse(event.body).payload.data;
+  console.log(data)
 
   const msg = {
     to: data.email, // Change to your recipient
