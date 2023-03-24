@@ -3,7 +3,6 @@ sgMail.setApiKey(process.env.SG_MAIL)
 
 exports.handler = function(event) {
   const data = JSON.parse(event.body).payload.data;
-  console.log("API Key", process.env.SG_MAIL)
   console.log(data)
 
   const msg = {
