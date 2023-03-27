@@ -181,6 +181,18 @@ a {
     margin: 10px;
     font-weight: bold;
   }
+  &::after {
+    content: "";
+    flex: auto;
+    width: 100%;
+    margin: 0 0 2em;
+    @media (min-width: 400px) {
+      width: 47%;
+    }
+    @media (min-width: 800px) {
+      max-width: 30%;
+    }
+  }
 }
 
 .lot-description {
