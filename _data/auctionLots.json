@@ -60,11 +60,31 @@
     "businessLink": ""
   },
   {
-    "lot": "£25 Good Money Shopping Voucher",
+    "lot": "£25 Good Money Shopping Voucher (1 of 2)",
     "short_description": "A brilliant new gift voucher that helps independent local businesses flourish in Brighton & Hove",
     "description": "Goodmoney gift vouchers can be spent with a wide range of local businesses. They offer more choice, support local and make you feel good.",
     "image": "/images/items/goodmoney.png",
     "total_value": 25,
+    "terms": "",
+    "business": "Good Money",
+    "businessLink": "https://www.goodmoney.co.uk/"
+  },
+  {
+    "lot": "£25 Good Money Shopping Voucher (2 of 2)",
+    "short_description": "A brilliant new gift voucher that helps independent local businesses flourish in Brighton & Hove",
+    "description": "Goodmoney gift vouchers can be spent with a wide range of local businesses. They offer more choice, support local and make you feel good.",
+    "image": "/images/items/goodmoney.png",
+    "total_value": 25,
+    "terms": "",
+    "business": "Good Money",
+    "businessLink": "https://www.goodmoney.co.uk/"
+  },
+  {
+    "lot": "£50 Good Money Shopping Vouchers",
+    "short_description": "2 x £25 gift vouchers that helps independent local businesses flourish in Brighton & Hove",
+    "description": "Goodmoney gift vouchers can be spent with a wide range of local businesses. They offer more choice, support local and make you feel good.",
+    "image": "/images/items/goodmoney.png",
+    "total_value": 50,
     "terms": "",
     "business": "Good Money",
     "businessLink": "https://www.goodmoney.co.uk/"
