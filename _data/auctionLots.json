@@ -65,7 +65,7 @@
     "description": "Goodmoney gift vouchers can be spent with a wide range of local businesses. They offer more choice, support local and make you feel good.",
     "image": "/images/items/goodmoney.png",
     "total_value": 25,
-    "terms": "Can be spent at the following retailers: <a href='https://www.goodmoney.co.uk/spend/#!directory/map'>https://www.goodmoney.co.uk</a>",
+    "terms": "See https://www.goodmoney.co.uk/spend/#!directory/map for participating retailers.",
     "business": "Good Money",
     "businessLink": "https://www.goodmoney.co.uk/"
   },
@@ -75,7 +75,7 @@
     "description": "Goodmoney gift vouchers can be spent with a wide range of local businesses. They offer more choice, support local and make you feel good.",
     "image": "/images/items/goodmoney.png",
     "total_value": 25,
-    "terms": "Can be spent at the following retailers: <a href='https://www.goodmoney.co.uk/spend/#!directory/map'>https://www.goodmoney.co.uk</a>",
+    "terms": "See https://www.goodmoney.co.uk/spend/#!directory/map for participating retailers.",
     "business": "Good Money",
     "businessLink": "https://www.goodmoney.co.uk/"
   },
@@ -85,7 +85,7 @@
     "description": "Goodmoney gift vouchers can be spent with a wide range of local businesses. They offer more choice, support local and make you feel good.",
     "image": "/images/items/goodmoney.png",
     "total_value": 50,
-    "terms": "Can be spent at the following retailers: <a href='https://www.goodmoney.co.uk/spend/#!directory/map'>https://www.goodmoney.co.uk</a>",
+    "terms": "See https://www.goodmoney.co.uk/spend/#!directory/map for participating retailers.",
     "business": "Good Money",
     "businessLink": "https://www.goodmoney.co.uk/"
   },
