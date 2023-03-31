@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "netlify": "netlify"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "sass": "^1.60.0"
   },
   "dependencies": {
