@@ -4,9 +4,9 @@
 [context.production]
   command = 'gulp && eleventy'
   publish = '_site/'
-  environment = { AUCTION_LIVE = "false" }
+  environment = { AUCTION_LIVE = "true" }
 
 [context.staging]
   command = 'gulp && eleventy'
   publish = '_site/'
-  environment = { AUCTION_LIVE = "false" }
+  environment = { AUCTION_LIVE = "true" }

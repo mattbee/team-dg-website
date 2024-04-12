@@ -1,63 +1,23 @@
 [
   {
-    "lot": "2 FA Cup Final Tickets",
-    "short_description": "Could it be Brighton at Wembley?! Better bid, just in case!",
-    "description": "It could be Brighton in the cup final! Win 2 tickets, worth £145 each to see the FA cup final at Wembley on Saturday 3rd June 2023.",
-    "image": "/images/items/facup.jpg",
-    "total_value": 290,
+    "lot": "4 Taylor Swift Tickets",
+    "short_description": "4 tickets to see Taylor Swift at Wembley Stadium",
+    "description": "4 excellent seated tickets to see Taylor Swift at Wembley Stadium, for the show of your choice in August!",
+    "image": "/images/items/taylor-swift.jpeg",
+    "total_value": 500,
     "terms": "",
     "business": "Wembley Stadium",
-    "businessLink": "https://www.thefa.com/competitions/thefacup"
+    "businessLink": "https://www.wembleystadium.com/events/2024/Taylor-Swift-The-Eras-Tour"
   },
   {
-    "lot": "4 FA Cup Semi Final Tickets",
-    "short_description": "Support the Albion against Man Utd (or vice versa!)",
-    "description": "4 tickets for the Emirates FA Cup Semi Final between Brighton & Hove Albion and Man Utd on 23rd April 2023.  An experience like no other. Choose from Brighton or Man Utd end!",
-    "image": "/images/items/brighton.png",
-    "total_value": 320,
-    "terms": "",
-    "business": "Wembley Stadium",
-    "businessLink": "https://www.thefa.com/competitions/thefacup"
-  },
-  {
-    "lot": "Harry Styles at Wembley",
-    "short_description": "4 Tickets to see Harry Styles at Wembley",
-    "description": "Choose any of his 4 nights at Wembley (13th, 14th, 16th, or 17th June) and see one of the biggest starts around at one of the greatest venues.",
-    "image": "/images/items/styles.png",
-    "total_value": 400,
-    "terms": "",
-    "business": "Wembley Stadium",
-    "businessLink": "https://www.thefa.com/competitions/thefacup"
-  },
-  {
-    "lot": "WoWo camping voucher for 2023",
-    "short_description": "Voucher for a pitch at Camp Goldstone 2023.",
-    "description": "Voucher for a pitch at Camp Goldstone 2023. On the 7/8th July 2023 Goldstone Primary School families take over a field at WoWo campsite. Spend time away from school with other families letting children experience wild living.",
-    "image": "/images/items/wowo.jpeg",
-    "total_value": 94,
-    "terms": "",
-    "business": "WoWo Campsite",
-    "businessLink": "https://wowo.co.uk/"
-  },
-  {
-    "lot": "3D Lipo Hydro2 Facial Voucher",
-    "short_description": "One Express Hydro2 Facial at 3D Lipo Brighton",
-    "description": "3D Hydro2 Facial with Skintech utilises up to a dozen different advanced technologies, to target an array of universal skin concerns including dehydration, skin-ageing, lose skin, dull complexion and congestion. The Hydro2 Facial (also known as a Hydro facial) can offer more prescriptive, versatile and rounded facials than ever before, combined with Skintech technologies we now have some of the most advanced machine facials along the south coast. These technologies smooth hydrate and cleanse the skin resulting in a glowing more youthful appearance.",
-    "image": "/images/items/3dlipo.png",
+    "lot": "Signed Brighton & Hove WFC Shirt",
+    "short_description": "An Albion shirt signed by the Women's team",
+    "description": "Brighton & Hove Albion WFC signed football shirt.",
+    "image": "/images/items/bhawfc.jpeg",
     "total_value": 50,
     "terms": "",
-    "business": "3D Lipo Brighton",
-    "businessLink": "https://3dlipobrighton.com/"
-  },
-  {
-    "lot": "CK One Fragrance",
-    "short_description": "Unopened CK One fragrance",
-    "description": "",
-    "image": "/images/items/ckone.png",
-    "total_value": 20,
-    "terms": "",
-    "business": "Goldstone parent",
-    "businessLink": ""
+    "business": "Brighton & Hove Albion",
+    "businessLink": "https://www.brightonandhovealbion.com/teams/womens-team"
   },
   {
     "lot": "£25 Good Money Shopping Voucher (1 of 2)",
@@ -68,35 +28,5 @@
     "terms": "See https://www.goodmoney.co.uk/spend/#!directory/map for participating retailers.",
     "business": "Good Money",
     "businessLink": "https://www.goodmoney.co.uk/"
-  },
-  {
-    "lot": "£25 Good Money Shopping Voucher (2 of 2)",
-    "short_description": "A brilliant new gift voucher that helps independent local businesses flourish in Brighton & Hove",
-    "description": "Goodmoney gift vouchers can be spent with a wide range of local businesses. They offer more choice, support local and make you feel good.",
-    "image": "/images/items/goodmoney.png",
-    "total_value": 25,
-    "terms": "See https://www.goodmoney.co.uk/spend/#!directory/map for participating retailers.",
-    "business": "Good Money",
-    "businessLink": "https://www.goodmoney.co.uk/"
-  },
-  {
-    "lot": "£50 Good Money Shopping Vouchers",
-    "short_description": "2 x £25 gift vouchers that helps independent local businesses flourish in Brighton & Hove",
-    "description": "Goodmoney gift vouchers can be spent with a wide range of local businesses. They offer more choice, support local and make you feel good.",
-    "image": "/images/items/goodmoney.png",
-    "total_value": 50,
-    "terms": "See https://www.goodmoney.co.uk/spend/#!directory/map for participating retailers.",
-    "business": "Good Money",
-    "businessLink": "https://www.goodmoney.co.uk/"
-  },
-  {
-    "lot": "Small sterling silver earrings",
-    "short_description": "Small sterling silver irregular shaped earrings with pink sapphires.",
-    "description": "Small sterling silver irregular shaped earrings with pink sapphires.",
-    "image": "/images/items/earrings.jpg",
-    "total_value": 129,
-    "terms": "",
-    "business": "Goldstone parent",
-    "businessLink": ""
   }
 ]
