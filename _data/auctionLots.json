@@ -2,7 +2,7 @@
   {
     "lot": "2 Taylor Swift Tickets (1 of 2)",
     "short_description": "2 tickets to see Taylor Swift at Wembley Stadium",
-    "description": "2 excellent seated tickets to see Taylor Swift at Wembley Stadium, for the show of your choice in August! Lot 1 of 2 for this prize.",
+    "description": "2 excellent seated tickets to see Taylor Swift at Wembley Stadium, for the show of your choice in August! Lot 1 of 2 for this prize, 2 tickets per lot.",
     "image": "/images/items/taylor-swift.jpeg",
     "total_value": 250,
     "terms": "",
@@ -12,7 +12,7 @@
   {
     "lot": "2 Taylor Swift Tickets (2 of 2)",
     "short_description": "Another 2 tickets to see Taylor Swift at Wembley Stadium!",
-    "description": "2 excellent seated tickets to see Taylor Swift at Wembley Stadium, for the show of your choice in August! Lot 2 of 2 for this prize.",
+    "description": "2 excellent seated tickets to see Taylor Swift at Wembley Stadium, for the show of your choice in August! Lot 2 of 2 for this prize, 2 tickets per lot.",
     "image": "/images/items/taylor-swift.jpeg",
     "total_value": 250,
     "terms": "",
@@ -38,5 +38,25 @@
     "terms": "See https://www.goodmoney.co.uk/spend/#!directory/map for participating retailers.",
     "business": "Good Money",
     "businessLink": "https://www.goodmoney.co.uk/"
+  },
+  {
+    "lot": "£30 Popeyes Gift Card",
+    "short_description": "Grab a bargain Popeyes Louisiana Chicken meal for the whole family with a £30 gift card",
+    "description": "Grab a bargain Popeyes Louisiana Chicken meal for the whole family with a £30 gift card. Valid in any Popeyes Louisiana Kitchen across the country. Valid until 31/12/2024.",
+    "image": "/images/items/popeyes.webp",
+    "total_value": 30,
+    "terms": "",
+    "business": "Popeyes Louisiana Kitchen",
+    "businessLink": "https://popeyesuk.com/"
+  },
+  {
+    "lot": "Bespoke Guided Walk in Brighton and Hove",
+    "short_description": "A guided walk by Dr Geoffrey Mead, local historian, of anywhere in Brighton & Hove",
+    "description": "A guided walk by Dr Geoffrey Mead, local historian, of anywhere in Brighton & Hove. You can choose where and when and for any number of people and Dr Geoffrey Mead will teach you all about wherever you choose. No doubt wherever will be full of interesting facts you can share with your friends!",
+    "image": "/images/items/brighton-town.jpeg",
+    "total_value": 40,
+    "terms": "",
+    "business": "Dr Geoffrey Mead",
+    "businessLink": ""
   }
 ]
