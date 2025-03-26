@@ -1,62 +1,32 @@
 [
   {
-    "lot": "2 Taylor Swift Tickets (1 of 2)",
-    "short_description": "2 tickets to see Taylor Swift at Wembley Stadium",
-    "description": "2 excellent seated tickets to see Taylor Swift at Wembley Stadium, for the show of your choice in August! Lot 1 of 2 for this prize, 2 tickets per lot.",
-    "image": "/images/items/taylor-swift.jpeg",
-    "total_value": 250,
-    "terms": "",
+    "lot": "4 tickets to Coldplay at Wembley",
+    "short_description": "4 tickets to see Coldplay at Wembley Stadium",
+    "description": "4 excellent seated tickets to see Coldplay at Wembley Stadium, for the Coldplay show of your choice in August!",
+    "image": "/images/items/Coldplay.jpg",
+    "total_value": "400+",
+    "terms": "Tickets can not be transferred and will be sent to an email address shortly before the event. Tickets must not be sold or transferred and only auction winner and guests may attend.",
     "business": "Wembley Stadium",
-    "businessLink": "https://www.wembleystadium.com/events/2024/Taylor-Swift-The-Eras-Tour"
+    "businessLink": "https://www.wembleystadium.com/events/2025/Coldplay"
   },
   {
-    "lot": "2 Taylor Swift Tickets (2 of 2)",
-    "short_description": "Another 2 tickets to see Taylor Swift at Wembley Stadium!",
-    "description": "2 excellent seated tickets to see Taylor Swift at Wembley Stadium, for the show of your choice in August! Lot 2 of 2 for this prize, 2 tickets per lot.",
-    "image": "/images/items/taylor-swift.jpeg",
-    "total_value": 250,
-    "terms": "",
-    "business": "Wembley Stadium",
-    "businessLink": "https://www.wembleystadium.com/events/2024/Taylor-Swift-The-Eras-Tour"
-  },
-  {
-    "lot": "Signed Brighton & Hove WFC Shirt",
-    "short_description": "An Albion shirt signed by the Women's team",
-    "description": "Brighton & Hove Albion WFC signed football shirt.",
+    "lot": "4 tickets for Brighton Women v Liverpool at the AMEX",
+    "short_description": "Brighton Women are back at the AMEX to play Liverpool Women on 19th April, 12:30pm kick off.",
+    "description": "Brighton Women are back at the AMEX to play Liverpool Women on 19th April, 12:30pm kick off. Go and see the Seagulls beat the reds (or the other way round if you prefer red). Either way I am sure your favourite team will win (or not).",
     "image": "/images/items/bhawfc.jpeg",
-    "total_value": 50,
-    "terms": "",
-    "business": "Brighton & Hove Albion",
-    "businessLink": "https://www.brightonandhovealbion.com/teams/womens-team"
+    "total_value": 80,
+    "terms": "Attendee names required in advance.",
+    "business": "Barclays Business Banking",
+    "businessLink": "https://www.barclays.co.uk/business-banking/"
   },
   {
-    "lot": "£25 Good Money Shopping Voucher",
-    "short_description": "A brilliant new gift voucher that helps independent local businesses flourish in Brighton & Hove",
-    "description": "Goodmoney gift vouchers can be spent with a wide range of local businesses. They offer more choice, support local and make you feel good.",
-    "image": "/images/items/goodmoney.png",
-    "total_value": 25,
-    "terms": "See https://www.goodmoney.co.uk/spend/#!directory/map for participating retailers.",
-    "business": "Good Money",
-    "businessLink": "https://www.goodmoney.co.uk/"
-  },
-  {
-    "lot": "£30 Popeyes Gift Card",
-    "short_description": "Grab a bargain Popeyes Louisiana Chicken meal for the whole family with a £30 gift card",
-    "description": "Grab a bargain Popeyes Louisiana Chicken meal for the whole family with a £30 gift card. Valid in any Popeyes Louisiana Kitchen across the country. Valid until 31/12/2024.",
-    "image": "/images/items/popeyes.webp",
-    "total_value": 30,
-    "terms": "",
-    "business": "Popeyes Louisiana Kitchen",
-    "businessLink": "https://popeyesuk.com/"
-  },
-  {
-    "lot": "Bespoke Guided Walk in Brighton and Hove",
-    "short_description": "A guided walk by Dr Geoffrey Mead, local historian, of anywhere in Brighton & Hove",
-    "description": "A guided walk by Dr Geoffrey Mead, local historian, of anywhere in Brighton & Hove. You can choose where and when and for any number of people and Dr Geoffrey Mead will teach you all about wherever you choose. No doubt wherever will be full of interesting facts you can share with your friends!",
-    "image": "/images/items/brighton-town.jpeg",
-    "total_value": 50,
-    "terms": "",
-    "business": "Dr Geoffrey Mead",
-    "businessLink": ""
+    "lot": "4 tickets to Oasis at Wembley",
+    "short_description": "4 tickets to the hottest event of the year, Oasis reunion at Wembley.",
+    "description": "Come on arr kid, you won't find any dynamic pricing here, just bid what you can afford and see if you're lucky enough to be the highest bidder. Unfortunately due to the nature of the auction refunds are not possible if the Gallagher brothers do fall out with each other before any othe following dates: Jul 25 Friday, Jul 26 Saturday, Jul 30 Wednesday, Aug 2 Saturday, Aug 3 Sunday, Sep 27 Saturday, Sep 28 Sunday",
+    "image": "/images/items/oasis.jpg",
+    "total_value": "600+",
+    "terms": "Tickets can not be transferred and will be sent to an email address shortly before the event. Tickets must not be sold or transferred and only auction winner and guests may attend.",
+    "business": "Wembley Stadium",
+    "businessLink": "https://www.wembleystadium.com/events/2025/Oasis"
   }
 ]
